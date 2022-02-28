@@ -1,0 +1,624 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal nursing-father; discoursed in a sermon preach'd at the cathedral in Norwich, on the 29th of May [B]eing the day of his Majesties birth, and happy return to his kingdoms. By Charles Robotham, batchelour of divinity, in Norfolk.</title>
+            <author>Robotham, Charles, 1625 or 6-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91906</idno>
+            <idno type="STC">Wing R1729C</idno>
+            <idno type="STC">ESTC R229944</idno>
+            <idno type="EEBO-CITATION">99895742</idno>
+            <idno type="PROQUEST">99895742</idno>
+            <idno type="VID">153290</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153290)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2358:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal nursing-father; discoursed in a sermon preach'd at the cathedral in Norwich, on the 29th of May [B]eing the day of his Majesties birth, and happy return to his kingdoms. By Charles Robotham, batchelour of divinity, in Norfolk.</title>
+                  <author>Robotham, Charles, 1625 or 6-1700.</author>
+               </titleStmt>
+               <extent>[6], 73, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W. Oliver in Norwich,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC LXXX. [1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Bible. --  O.T. --  Isaiah XLIX, 23 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153290:1"/>
+            <pb facs="tcp:153290:1"/>
+            <p>
+               <hi>The Royal Nurſing-Father;</hi>
+            </p>
+            <p>Diſcourſed in a SERMON Preach'd at the Cathedral in <hi>NORWICH,</hi> On the <hi>29th</hi> of <hi>May.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing the Day of His Majeſties Birth, and Happy Return to His Kingdoms.</p>
+            <p>By <hi>Charles Robotham,</hi> Batchelour of Divinity, in <hi>Norfolk.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Oliver</hi> in <hi>Norwich.</hi> M DC LXXX.</p>
+            <pb facs="tcp:153290:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:153290:2"/>
+            <head>
+               <hi>TO THE RIGHT WORSHIPFUL Sir</hi> Chriſtopher Calthorpe, <hi>Knight of the</hi> BATH.</head>
+            <opener>
+               <salute>Honoured and Right Worſhipful.</salute>
+            </opener>
+            <p>IT will not (I hope) be thought ſtrange, but Duty, if (a<g ref="char:EOLhyphen"/>mongſt the many that are cordial<g ref="char:EOLhyphen"/>ly affected towards you) I alſo bring my Mite into your Trea<g ref="char:EOLhyphen"/>ſury; unto which all that know you, and can diſtinguiſh true worth and goodneſs from a ſeem<g ref="char:EOLhyphen"/>ing ſhew, or a meer popular gloſs, cannot but pay the Tribute of their due reſpects.</p>
+            <p>
+               <pb facs="tcp:153290:3"/>
+As for this preſent addreſs here made unto you; your ſingu<g ref="char:EOLhyphen"/>lar integrity and fidelity to the publick, your true affection to ſolid and undiſſembled Piety, your un<g ref="char:EOLhyphen"/>tainted Loyalty to the Prince, your Love and Nobleneſs to the Church, (ſo well known) and laſtly, your many favours and counte<g ref="char:EOLhyphen"/>nance, not only to thoſe of my Function in general, but to my ſelf in particular, are all ſuch as juſtly entitle you to the ſub<g ref="char:EOLhyphen"/>ject of this following Diſcourſe; you being that in your leſser Sphere, which our Gracious So<g ref="char:EOLhyphen"/>vereign is, in his higher and lar<g ref="char:EOLhyphen"/>ger, <hi>A true Nurſing Father.</hi> God of his goodneſs encreaſe the Gifts and Graces of your mind, and the number of your Imita<g ref="char:EOLhyphen"/>tors.</p>
+            <p>
+               <pb facs="tcp:153290:3"/>
+May the Vertues of your Soul (in deſpight of that Veil that would hide them) prove more and more conſpicuous, like the Sta<g ref="char:EOLhyphen"/>tues of thoſe two <hi>Romans</hi> of old, which the more they were concealed and covered from the publick ſight, were but the more taken notice of.</p>
+            <p>May the fatneſs of the Earth be your lot, and may the Dews and Bleſſings of Heaven fall here and ever upon you and yours, ſo as to redound to Gods Glory, to the publick good, and to your own inward comfort and eternal reward. So prays your unfeign<g ref="char:EOLhyphen"/>ed Orator at the Throne of Grace, and faithful Servant to his power,</p>
+            <closer>
+               <signed>Charles Robotham.</signed>
+            </closer>
+            <pb facs="tcp:153290:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:153290:4"/>
+            <epigraph>
+               <bibl>Iſaiah xlix. 23.</bibl>
+               <q>And Kings ſhall be thy Nurſing Fa<g ref="char:EOLhyphen"/>thers, and their Queens thy Nur<g ref="char:EOLhyphen"/>ſing Mothers. They ſhall bow down to thee with their Faces to<g ref="char:EOLhyphen"/>wards the Earth, and lick up the duſt of thy feet.</q>
+            </epigraph>
+            <p>THE current of Religion in the world ſeems much to reſemble thoſe Waters of <hi>Ezekiel,</hi> that <note place="margin">
+                  <hi>Ezek.</hi> 47. 3, 4.</note> roſe firſt to the Ankles, then to the Knees and Loins, and ſo to an unpaſſable depth. Such was the riſe and progreſs of Religion in the World. The beginnings of it were but ſmall, only in the Fami<g ref="char:EOLhyphen"/>lies of the Patriarchs; the Chan<g ref="char:EOLhyphen"/>nel of it for a long time ſcant and narrow, only in the bounds and limits of the Land of <hi>Canaan:</hi>
+               <pb n="2" facs="tcp:153290:5"/>
+In <hi>Jury</hi> only was God known, and his Name great in <hi>Iſrael.</hi> But at the length it overflowed the Banks, and according to the pre<g ref="char:EOLhyphen"/>diction, <hi>Iſa.</hi> 11 9. <hi>The whole Earth was filled with the knowledge of the Lord, as the Waters cover the Sea.</hi> But this it was a work eſpecially reſerved for the days and coming of the <hi>Meſſia;</hi> and is commonly joyned with the mention and pro<g ref="char:EOLhyphen"/>miſe of the <hi>Meſſia.</hi> Thus in <hi>Gen.</hi> 22. 18. <hi>In thy Seed ſhall all the Na<g ref="char:EOLhyphen"/>tions of the Earth be bleſſed.</hi> Thus in <hi>Gen.</hi> 49. 10. <hi>(Till</hi> Shilo <hi>come) And to him ſhall the gathering of the people be.</hi> And the very ſame thing we meet with at large in this very Chapter of <hi>Iſaiah,</hi> be<g ref="char:EOLhyphen"/>ginning at the <hi>6th</hi> Verſe: <hi>I will give thee for a Light to the</hi> Gen<g ref="char:EOLhyphen"/>tiles, <hi>that thou may'ſt be my Salva<g ref="char:EOLhyphen"/>tion, to the ends of the earth.</hi>
+            </p>
+            <p>In purſuance of which ſubject he goes on to ſet forth the care of God, not only for the perpetua<g ref="char:EOLhyphen"/>ting of the Church, (Verſe the
+<pb n="3" facs="tcp:153290:5"/>
+               <hi>16th, I have graven thee upon the palms of my hands, thy walls are continually before me;)</hi> but alſo for the repleniſhing and inlarging the Church; and that to ſuch a flow of fulneſs, that they ſhall complain, (as in the <hi>20th</hi> Verſe) <hi>The place is too ſtrait for me, give me room that I may dwell. Augu<g ref="char:EOLhyphen"/>ſtus eſt mihi locus in Synagogis, fac mihi ſpatium in Eccleſiis;</hi> as St. <hi>Hierom</hi> gloſſes upon the place.</p>
+            <p>Now, if any ſhall ask, (with the Church in the <hi>21ſt</hi> Verſe) <hi>who hath begotten me theſe? who hath brought up theſe?</hi> As much as to ſay, By what means ſhall there come in ſuch a throng and multitude of Proſelytes to fill the Church? The Anſwer follows in the next words, That it ſhould be by a double means; firſt, by the power and preaching of the Goſpel, (Verſe 22. <hi>I will lift up my hand unto the Gentiles, and ſet my Standard to the People;</hi> i. e. <hi>Vexillam crucis,</hi> (ſays St. <hi>Hierom)</hi>
+               <pb n="4" facs="tcp:153290:6"/>
+The Word and Standard of the Croſs and Goſpel of Chriſt. And then ſecondly, It ſhould be done by the after-aſſiſtance of Kings and Princes that ſhould embrace and profeſs the Goſpel; as it fol<g ref="char:EOLhyphen"/>lows in the Text, Verſe 23. <hi>And Kings ſhall be thy Nurſing Fathers, and their Queens thy Nurſing Mo<g ref="char:EOLhyphen"/>thers, they ſhall bow down to thee,</hi> &amp;c.</p>
+            <p>The words then are a ſignal Propheſie, touching the inlarge<g ref="char:EOLhyphen"/>ment of the Church, as by the acceſſion of the <hi>Gentiles</hi> in the general, ſo of the Secular Powers and Governours in particular. In the words I ſhall conſider two main remarkables: Firſt, the Per<g ref="char:EOLhyphen"/>ſons here inſtanced in, <hi>(Kings and Queens.)</hi> Secondly, the things ſpoken of theſe Perſons; <hi>i. e.</hi> Their Converſion, their Devoti<g ref="char:EOLhyphen"/>on, their furtherance and aſſi<g ref="char:EOLhyphen"/>ſtance.</p>
+            <p>Firſt then, let us conſider, <hi>E<g ref="char:EOLhyphen"/>minentiam Inſtantiae,</hi> the Perſons
+<pb n="5" facs="tcp:153290:6"/>
+here inſtanced in; we ſhall find them to be none of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, of the lower and middle rank; but of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Perſons of the greateſt heighth and eminency, and that in each of the Sexes, <hi>Kings</hi> for the one, and <hi>Queens</hi> for the other. He could not have gone higher, if he would, here amongſt Men. And truly Kings and Princes muſt needs be the higheſt upon Earth, becauſe they are immediately next unto him, who is the moſt higheſt both in Heaven and Earth, that is, to God himſelf. For this was the Divi<g ref="char:EOLhyphen"/>nity of the ancient Fathers, <hi>Ter<g ref="char:EOLhyphen"/>tul.</hi> 
+               <note place="margin">
+                  <hi>C.</hi> 2. <hi>A quo ſecundi, poſt quem primi; ante omnes, &amp; ſuper omnes Deos. Tert. Apol. c.</hi> 30. <hi>Lib.</hi> 3. <hi>adverſus Parmen.</hi>
+               </note> 
+               <hi>ad Scap. Colimus Imperatorem ut hominem, a Deo ſecundum—Et ſolo Deo minorem; i. e.</hi> We reve<g ref="char:EOLhyphen"/>rence the Emperour, as a Man ſe<g ref="char:EOLhyphen"/>cond to God, and inferior to none but God. So that of <hi>Optatus, Super Imperatorem non eſt niſi ſo<g ref="char:EOLhyphen"/>lus Deus, qui fecit Imperatorem.</hi> There is none above the Empe<g ref="char:EOLhyphen"/>rour, ſaving God, who made the
+<pb n="6" facs="tcp:153290:7"/>
+Emperour. And ſo alſo that of <hi>Arnobius. Rex ſub nullo alio, niſi ſub Deo.</hi> The King is under none <note place="margin">In Pſalmos.</note> but God; and if only under him, then doubtleſs the higheſt, next and immediate to him: yea ſo near unto God, that they partake of the very name <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Juſtin. M. quaeſt. &amp; reſp. ad Or<g ref="char:EOLhyphen"/>thod. Qu.</hi> 142.</note> of God, <hi>Pſal.</hi> 82. 6. <hi>I ſaid ye are Gods.</hi> Gods for their place and Office, as be<g ref="char:EOLhyphen"/>ing in Gods room and ſtead, his Vice-gerents upon Earth. And Gods for their Power and Heighth, and Supremacy, as having a Di<g ref="char:EOLhyphen"/>vine impreſs of Majeſty and Sove<g ref="char:EOLhyphen"/>reignty ſealed and engraved upon their Perſons. For what is that that we call <hi>(Majeſtas Principis,)</hi> the Majeſty of a King or Prince? I ſay, What is it, but ſomething of Divinity, ſomething of God, put upon a mortal Man? And therefore the Chriſtians of old (as <hi>Vegetius</hi> relates, in their Mili<g ref="char:EOLhyphen"/>tary <note place="margin">
+                  <hi>Vegetins, de re mili<g ref="char:EOLhyphen"/>tari l.</hi> 2. <hi>c.</hi> 5.</note> Oath) were wont to be ſworn, without ſcruple, <hi>Per Ma<g ref="char:EOLhyphen"/>jeſtatem Imperatoris,</hi> By the Ma<g ref="char:EOLhyphen"/>jeſty
+<pb n="7" facs="tcp:153290:7"/>
+of the Emperour, as being <hi>Sacrum quiddam &amp; Divinum,</hi> ſome<g ref="char:EOLhyphen"/>thing of God put upon Man, and exalting him to an immediate nextneſs unto God.</p>
+            <p>Ye ſee then the height and e<g ref="char:EOLhyphen"/>minency of the Perſons; yea but may ſome ſay, Why is it that the Inſtance here runs in Kings only, and ſingle Perſons? were Monarchs only to be the Nurſing Fathers to the Church of God? To this I anſwer. No doubt but under Kings are here included all other Secular Powers and Governours whatſoever; yet Kings only are named, and that for a double reaſon.</p>
+            <p>
+               <hi>1ſt,</hi> In reſpect to the Event, they being <hi>primogeniti Eccleſiae,</hi> The firſt that began to exerciſe the power of Nurſing-fathers. The Prophecy it ſelf, in the exe<g ref="char:EOLhyphen"/>cution of it, was firſtly, yea, and moſtly fulfilled all along in Kings and Monarchs. And then ſecond<g ref="char:EOLhyphen"/>ly, In reſpect to the very <hi>Species</hi>
+               <pb n="8" facs="tcp:153290:8"/>
+of Government, Kings are here named, for divers reaſons.</p>
+            <p>
+               <hi>1ſt,</hi> As being the chiefeſt and <note n="a" place="margin">
+                  <hi>Prin<g ref="char:EOLhyphen"/>cipale per ſe poſitum ſtat pro cae<g ref="char:EOLhyphen"/>teris. Ariſtot. polit. l.</hi> 3. <hi>c.</hi> 11, 12.</note> principal of Governments, as having in it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>abſolutum imperium,</hi> the entire and abſolute command and power united and centered in one perſon; and there<g ref="char:EOLhyphen"/>fore the more effectual for the aid and aſſiſtance of the Church.</p>
+            <p>
+               <hi>2ly,</hi> As being the moſt known, the moſt famous, uſual, and uni<g ref="char:EOLhyphen"/>verſal; eſpecially in thoſe Ea<g ref="char:EOLhyphen"/>ſtern Nations: according to that in <hi>Tacitus, Suetum Regibus Ori<g ref="char:EOLhyphen"/>entem.</hi>
+            </p>
+            <p>
+               <hi>3dly,</hi> As being the moſt anci<g ref="char:EOLhyphen"/>ent, <note n="c" place="margin">
+                  <hi>Ariſt. Eth. l.</hi> 8. <hi>c.</hi> 11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>&amp;c. Natu<g ref="char:EOLhyphen"/>tura com<g ref="char:EOLhyphen"/>menta eſt Regem. Sen. de clem. l.</hi> 1. <hi>c.</hi> 19.</note> natural, and primitive of Governments. <hi>Initio Reges: Id primum in terris fuit Imperii no<g ref="char:EOLhyphen"/>men,</hi> ſays <hi>Saluſt</hi> 
+               <note n="d" place="margin">Cited by <hi>Aug. de civ. Dei. l.</hi> 3. <hi>c.</hi> 10. To whom <hi>Vives</hi> adds <hi>Herodotus</hi> and <hi>Pliny.</hi>
+               </note> (in <hi>Catilin.)</hi> Kingſhip or ſingle Empire was the firſt of Governments. <hi>Omnes an<g ref="char:EOLhyphen"/>tiquae gentes, regibus quondam pa<g ref="char:EOLhyphen"/>ruere,</hi> 
+               <note n="e" place="margin">
+                  <hi>Secunda in Catili<g ref="char:EOLhyphen"/>nam. Item de Legibus l.</hi> 3.</note> ſays <hi>Tully. Principio Rerum, Gentium nationum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Im<g ref="char:EOLhyphen"/>perium penes Reges erat,</hi> ſays <hi>Ju<g ref="char:EOLhyphen"/>ſtin.</hi>
+               <pb n="9" facs="tcp:153290:8"/>
+               <note n="f" place="margin">Cited alſo by <hi>Aug. de C. D. l:</hi> 4. <hi>c.</hi> 6.</note> 
+               <hi>l.</hi> 1. All Kindreds and Nati<g ref="char:EOLhyphen"/>ons at the firſt were under Kings. To which we may add that of the Philoſopher, <hi>Politic.</hi> 1. <hi>c.</hi> 1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Cities at the firſt were go<g ref="char:EOLhyphen"/>verned by Kings, and ſo even to this day are Nations alſo.</p>
+            <p>Yea, and if we look yet higher into the very Riſe and Origine of Government, as it is recorded in Scripture; we ſhall find it was firſt veſted in a ſingle perſon. <hi>Adam,</hi> who was the Father of Mankind, was by his Creation, and for his time, Monarch of Man<g ref="char:EOLhyphen"/>kind; according to that of <hi>Cedrenus,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>The firſt Government in the <note place="margin">
+                  <hi>Bertram. de rep. jud. c.</hi> 2. <hi>p.</hi> 38.</note> world was that of Fathers, and Kingſhip is nothing elſe but the <hi>Apex,</hi> or Supremacy of fatherly Power, devolved into the hands of the preſent Monarch. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſays the Philoſopher, who alſo plainly <note place="margin">
+                  <hi>Ethic. l.</hi> 8. <hi>c.</hi> 12.</note>
+               <pb n="10" facs="tcp:153290:9"/>
+draws the firſt pedigree of Mo<g ref="char:EOLhyphen"/>narchs, from the Rights of Fa<g ref="char:EOLhyphen"/>thers; as any may ſee in the firſt Chapter of his <hi>Politicae.</hi>
+            </p>
+            <p>But enough of this firſt remar<g ref="char:EOLhyphen"/>kable in the Text, that is, of the Perſons or particularity of the In<g ref="char:EOLhyphen"/>ſtance <hi>(Kings or Princes.)</hi> I paſs unto the ſecond Conſidera<g ref="char:EOLhyphen"/>ble, and that is, The things that are foretold and ſpoken of theſe Perſons. They may be reduced to theſe following Heads. 1. Their Call and Converſion. 2. Their Piety and Devotion. 3. Their Beneficial Influence upon the Church, and aſſiſtance to it. From all which follows in the laſt place, the proſperity and enlargement of the Church by their means, (the thing deſigned and intended in the whole Conteſt.)</p>
+            <p>Firſt then, ye have their Call and Converſion; their conjuncti<g ref="char:EOLhyphen"/>on <hi>with</hi> the Church, and relation <hi>to</hi> the Church, as Members; in<g ref="char:EOLhyphen"/>timated in the Poſſeſſive <hi>(Tui,)</hi>
+               <pb n="11" facs="tcp:153290:9"/>
+Kings ſhall be <hi>Thy</hi> Nurſing Fa<g ref="char:EOLhyphen"/>thers. <hi>Thine,</hi> firſt, as Members, and then as Fathers. So that here are two things promiſed to the Church, as touching Kings, <hi>1ſt,</hi> That they ſhall be her Con<g ref="char:EOLhyphen"/>verts, and then her Patrons; firſt Embracers and Believers of the Goſpel, and then Maintainers and Promoters of the Goſpel. They ſhall become <hi>profeſſores fi<g ref="char:EOLhyphen"/>dei,</hi> and ſo <hi>defenſores,</hi> firſt Profeſ<g ref="char:EOLhyphen"/>ſers of the Faith, and then Defen<g ref="char:EOLhyphen"/>ders.</p>
+            <p>To begin with the firſt, Their Converſion. The Church of Chriſt, 'tis a Neſt for Eagles, as well as Doves. 'Tis a Grove for Oaks and Cedars to grow in, as well as Shrubs and Coppice: That is, 'tis a Place and Recepta<g ref="char:EOLhyphen"/>cle for Kings and <hi>Caeſars,</hi> as well as meaner Perſons; for rich <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> (the mighty <note n="a" place="margin">Abra<g ref="char:EOLhyphen"/>ham, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>dicitur Ni<g ref="char:EOLhyphen"/>colao Da<g ref="char:EOLhyphen"/>maſceno. Rex voca<g ref="char:EOLhyphen"/>tur Juſtino. Lib.</hi> 36. <hi>
+                     <g ref="char:V">Ʋ</g>nctus Dei. Pſal.</hi> 105. 15. ſays <hi>Grotius</hi> in <hi>Gen.</hi> 23. 12.</note> Prince, as he is called, <hi>Gen.</hi> 23. 6.) as well as poor <hi>Lazarus.</hi> 'Tis a Flock, wherein the Lyons lie down with
+<pb n="12" facs="tcp:153290:10"/>
+the Lambs in the ſame Fold, the Prince with the People.</p>
+            <p>The Grace of God, and the Faith of Chriſt, and the Power of Converſion, was never meant to be confined, meerly to the Commonalty, never to go higher. The Apoſtle expreſly declared the contrary from the beginning, 1 <hi>Tim.</hi> 2. where he does enjoyn it as a Canon to all Chriſtians, <hi>That Prayers, and Supplications, and Thankſgivings be made for all Men,</hi> Verſe 1. and for Kings in particu<g ref="char:EOLhyphen"/>lar, <hi>Verſe</hi> 2. Giving this as the Ground and reaſon of the duty, <hi>(Verſe</hi> 4.) becauſe God will have <hi>all Men to be ſaved, and to come to the Knowledge of the Truth;</hi> that is, doubtleſs, at the leaſt, Men of all ſorts and ranks, Kings as well as others. This the Apoſtle then knew; and knew it by the Writings of the Prophets. 'Twas a thing foretold long before, <hi>That Kings ſhould ſee and ariſe, and Princes ſhould worſhip the holy one</hi>
+               <pb n="13" facs="tcp:153290:10"/>
+               <hi>of Iſrael,</hi> Iſa. 49. 7. <hi>That the Gen<g ref="char:EOLhyphen"/>tiles ſhould come to the Churches light, and Kings to the brightneſs of her riſing.</hi> Iſa. 60. 3. And ſo <hi>Pſalm</hi> 22. 30. <hi>Pingues terrae ado<g ref="char:EOLhyphen"/>rabunt,</hi> all they that be fat upon Earth ſhall eat and worſhip. And <hi>Pſalm</hi> 47. and the laſt Verſe. <hi>The Princes of the People are gathered unto the People of the God of</hi> Abra<g ref="char:EOLhyphen"/>ham, (ſo 'tis in the <hi>Hebrew) For the Shields of the Earth</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,) the Mighty upon Earth) <hi>belong unto God;</hi> that is, they ſhall joyn themſelves to the God and People of <hi>Abraham,</hi> by communion of the ſame Faith.</p>
+            <p>Theſe Promiſes or Prophecies 'tis clear they belonged to the times of the Goſpel. And though they were not preſently fulfilled at the firſt planting of the Goſpel, becauſe God was reſolved to bring in and carry on the Religion of Chriſt at firſt in the world, not by the countenance of the Grandees and Princes of this world, but on<g ref="char:EOLhyphen"/>ly
+<pb n="14" facs="tcp:153290:11"/>
+by the ſufferings of Martyrs, by Signs and Miracles, by the ſole and ſingle force and efficacy of the Word Preached; that ſo the Doctrine might appear to be of God, and not of Man; yet, not<g ref="char:EOLhyphen"/>withſtanding, after ſome few Cen<g ref="char:EOLhyphen"/>turies of years, in due time thoſe Oracles began to be fulfilled; firſt in the Converſion of <hi>Lucius</hi> a Brittiſh King of this Iſle; and then of <hi>Conſtantine</hi> and <hi>Theodo<g ref="char:EOLhyphen"/>ſius;</hi> and ſo all along of many o<g ref="char:EOLhyphen"/>ther Princes, as it is at this day. So that the Religion of Chriſt, which at firſt began at the lower end, and dwelt in Cottages, is now got into the Palaces of Nobles, yea, and into the Courts of Kings and Princes, and I doubt not, of ſome of them, into their Hearts too. Chriſt, who is Lord over all, <hi>(Rom.</hi> 10. 12.) hath ſhewn himſelf rich unto all, even unto Kings; rich in Grace by calling <hi>them</hi> out of darkneſs into his mar<g ref="char:EOLhyphen"/>vellous light; hereby teſtifying
+<pb n="15" facs="tcp:153290:11"/>
+both the freeneſs of his Grace, that he is the God of the Hills as well as of the Vallies; and like<g ref="char:EOLhyphen"/>wiſe the Power of his Grace, that he has a Throne in Hearts of Kings, and can conquer Crowns and Scepters to a willing profeſ<g ref="char:EOLhyphen"/>ſing of him. And that the Net of the Goſpel, (ſpoken of <hi>Mat.</hi> 23. 47.) is large and ſtrong e<g ref="char:EOLhyphen"/>nough to catch and take the great Whales and Leviathans of the Water, as well as the ſmaller Fiſhes. Laſtly, hereby he has te<g ref="char:EOLhyphen"/>ſtified his honourable regard and reſpect unto the Robes of Earth<g ref="char:EOLhyphen"/>ly Majeſty, to the Thrones of Kings, by baptizing <hi>them</hi> into the Faith of Chriſt; thereby ſhewing them the way unto a better King<g ref="char:EOLhyphen"/>dom, that of Heaven, and to a brighter Crown, that of Righte<g ref="char:EOLhyphen"/>ouſneſs.</p>
+            <p>And that's the firſt thing here intimated touching Kings and Princes, their Call and Conver<g ref="char:EOLhyphen"/>ſion. The next follows, and that
+<pb n="16" facs="tcp:153290:12"/>
+is, their Piety and Devotion. For this I take to be the meaning of thoſe words, <hi>(They ſhall bow down to thee with their face to the Earth, and lick up the duſt of thy feet.)</hi> 'Tis an alluſion to that geſture of lowly Reverence and Incurvation of Body to the Ground, that was in uſe, both in Religious and Ci<g ref="char:EOLhyphen"/>vil Worſhip. As ye may ſee both at once, 1 <hi>Chron.</hi> 29. 20. <hi>All the</hi> 
+               <note place="margin">So 1 <hi>Sam.</hi> 24. 20. <hi>Adorave<g ref="char:EOLhyphen"/>runt Je<g ref="char:EOLhyphen"/>hovam &amp; Regen Pagn.</hi>
+               </note> 
+               <hi>Congregation bleſſed the Lord, and bowed down their Heads, and wor<g ref="char:EOLhyphen"/>ſhiped the Lord and the King.</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. lxx.) The like was practiſed by all your Eaſtern Nations, to their Sove<g ref="char:EOLhyphen"/>reigns; as appears by that of <hi>Martial.—Pictorum ſola baſiate regum. Epigr. L.</hi> 10. <hi>Ep.</hi> 72.</p>
+            <p>As alſo by that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> without which <hi>Themiſtocles</hi> him<g ref="char:EOLhyphen"/>ſelf could not have acceſs unto the <hi>Perſian</hi> King; though he diſ<g ref="char:EOLhyphen"/>guiſed it as well as he might, by the letting fall of his Ring.</p>
+            <p>
+               <pb n="17" facs="tcp:153290:12"/>
+But to return; in alluſion (I ſay) unto this cuſtom of deep and low veneration, is it here ſaid even of Kings and Queens, that they ſhall kiſs or lick the duſt, that they ſhall bow down with their faces towards the Earth: Yea but unto whom? <hi>Anſw.</hi> To whom but Chriſt. To him alone is all this reverence and obeyſance of Kings and Queens directed and intended. For though the Perſon here ſpoken to (as the words ſound) ſeem to be the Church; yet the Worſhip here ſpoken of is meant only Chriſt. <hi>Chriſti pro<g ref="char:EOLhyphen"/>prius &amp; peculiaris,</hi> (ſays <note n="a" place="margin">See <hi>Pſal.</hi> 72. 9. <hi>Iſa.</hi> 49. 7. <hi>De Imperio ſummarum poteſtatum. c.</hi> 4.</note> 
+               <hi>Gro<g ref="char:EOLhyphen"/>tius.) Tibi incurvabunt; id eſt, Chriſto in te habitanti,</hi> ſays <hi>Tre<g ref="char:EOLhyphen"/>mellivus.</hi> (They ſhall bow down to thee, <hi>i. e.</hi> To Chriſt dwelling in thee. <hi>Sic ad Eccleſiam transfer<g ref="char:EOLhyphen"/>tur hic honos, ut penes unum Chri<g ref="char:EOLhyphen"/>ſtum integer maneat,</hi> ſays <hi>Calvin.</hi> 
+               <note n="b" place="margin">Lin<g ref="char:EOLhyphen"/>gent pedunt pulverem tuorum, O Eccleſia, primitiva, in perſonâ capitis tui, Jeſu Chriſti. Gloſſa ordinaria in locum.</note> As much as to ſay, The Church
+<pb n="18" facs="tcp:153290:13"/>
+is here conſidered in conjunction with Chriſt the Head; ſo that what is ſpoken of the Body, ſtrict<g ref="char:EOLhyphen"/>ly and properly pertains only to the Head. <hi>Si enim Caput Eccleſiae eſt Chriſtus, Caput hic adoratur in cor<g ref="char:EOLhyphen"/>pore,</hi> ſays St. <hi>Hierom</hi> upon the Place. In the Honour of the Bo<g ref="char:EOLhyphen"/>dy is underſtood the Worſhip of the Head. And to the like pur<g ref="char:EOLhyphen"/>poſe (yet more plainly) is that of St. <hi>Baſil,</hi> (upon <hi>Pſal.</hi> 45. <hi>Ver.</hi> 12.) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. 'Tis not the Church to whom this Honour or Worſhip is given, but unto Chriſt, who is the Head of the Church.</p>
+            <p>In vain therefore do the Para<g ref="char:EOLhyphen"/>ſites of <hi>Rome</hi> go about to draw this Text to the maintenance or countenance either of the Papal Chair, or of the <note n="a" place="margin">
+                  <hi>Vide Librum Cae<g ref="char:EOLhyphen"/>remonia<g ref="char:EOLhyphen"/>rum, Sect.</hi> 3. <hi>C.</hi> 3.</note> Honour and Subjection claimed as due there<g ref="char:EOLhyphen"/>unto. For beſides the falſeneſs of the Hypotheſis, the thing it ſelf is very wide from the <hi>purpoſe</hi> of the Text. The Honour here
+<pb n="19" facs="tcp:153290:13"/>
+ſpoken of (as to be done by Kings and Queens) is not that of ex<g ref="char:EOLhyphen"/>ternal Subjection, whether Civil or Eccleſiaſtical, but that of Re<g ref="char:EOLhyphen"/>ligious Adoration. 'Tis no other than ſubjection unto Chriſt him<g ref="char:EOLhyphen"/>ſelf. To the Perſon of Chriſt, to the Laws of Chriſt and Chri<g ref="char:EOLhyphen"/>ſtianity, to the Faith and Do<g ref="char:EOLhyphen"/>ctrine of Chriſt, to the Word, Will, and Worſhip of Chriſt. This is that, that is fore-promiſed in the behalf of Kings; that they ſhould render unto Chriſt the ſub<g ref="char:EOLhyphen"/>jection of Piety and Devotion, <hi>i e-</hi> Reverence to his Name, ob<g ref="char:EOLhyphen"/>ſervance to his Worſhip, obedi<g ref="char:EOLhyphen"/>ence to his Will, ſubmiſſion to his Yoke and Scepter, walking in his Truth, rejoycing in his Light; counting it their higheſt Honour to do him Service, and the beſt and biggeſt of their Ti<g ref="char:EOLhyphen"/>tles to be his Subjects. As it is recorded of the Emperour <hi>Theo<g ref="char:EOLhyphen"/>doſius,</hi> That he profeſs'd he rejoy<g ref="char:EOLhyphen"/>ced <note place="margin">
+                  <hi>Theodoret. l.</hi> 5. <hi>c.</hi> 25.</note> more in his Chriſtianity, than
+<pb n="20" facs="tcp:153290:14"/>
+in his Regal Dignity; and, that upon his Death-bed he thank'd God more, that he was <hi>Membrum Eccleſiae,</hi> (a Member of the Church) than that he was <hi>Caput Imperii,</hi> (the Head of the <hi>Roman</hi> Empire) And another Paſſage I have read of one of the <hi>Lewis</hi>'s, King of <hi>France;</hi> who, though he had got many Victories, and won many Towns from the <hi>Saracens,</hi> yet would he not be ſtiled from any of them, but only from the Place of his Baptiſm would be called <hi>Lewis</hi> of <hi>Poiſſy.</hi> Why? Becauſe there (ſaid he) I firſt overcame the Devil, and was made a Chri<g ref="char:EOLhyphen"/>ſtian. Many the like Inſtances might be given of the ſignal Pie<g ref="char:EOLhyphen"/>ty of Chriſtian Kings and Princes, both in Word and Deed: But my buſineſs is not a Hiſtory, but a Sermon. I ſhall therefore paſs by what might be more largely ſpo<g ref="char:EOLhyphen"/>ken of this ſecond Head, and ha<g ref="char:EOLhyphen"/>ſten to the third and main Parti<g ref="char:EOLhyphen"/>cular deſigned in the Text, and
+<pb n="21" facs="tcp:153290:14"/>
+that is the ſpecial and beneficial In<g ref="char:EOLhyphen"/>fluences of Kings upon the Church for its good and flouriſhing, <hi>(They ſhall be thy Nurſing Fathers, and their Queens thy Nurſing Mothers.</hi>
+            </p>
+            <p>In the opening of which I ſhall conſider two Particulars; <hi>1ſt,</hi> The Thing it ſelf, to <hi>be done by</hi> Kings and Princes; and that is, the che<g ref="char:EOLhyphen"/>riſhing, the ſpreading and further<g ref="char:EOLhyphen"/>ance of the Church, and of Re<g ref="char:EOLhyphen"/>ligion in the Church. <hi>2ly,</hi> The means and manner of performing: They ſhall do it, as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as Nur<g ref="char:EOLhyphen"/>ſing Fathers.</p>
+            <p>For the firſt of theſe, 'Tis very evident God has always made uſe of Kings and Princes, for the fur<g ref="char:EOLhyphen"/>therance and maintenance of Re<g ref="char:EOLhyphen"/>ligion, from firſt to laſt. The firſt ſettlement of it among the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> was by the Hands of <hi>Moſes,</hi> who was King in <hi>Jeſurun. (Deut.</hi> 33. 5.) or as the <hi>Targum</hi> and <hi>Sy<g ref="char:EOLhyphen"/>riack</hi> reads it, King in <hi>Iſrael.</hi> The retriving of it, when lapſed, from Impieties and Idolatries, 'twas by
+<pb n="22" facs="tcp:153290:15"/>
+the means of Judges; whom <note place="margin">
+                  <hi>Cunaeus de republ. l.</hi> 1. <hi>c.</hi> 12. <hi>Bertramus de rep. jud. c.</hi> 9. <hi>p.</hi> 109.</note> 
+               <hi>Joſephus</hi> calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, no o<g ref="char:EOLhyphen"/>ther than Monarchs; Dictators, for their time, that is, in effect, Kings.</p>
+            <p>In a word, the fulleſt and the utmoſt growth, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of that Church, and the higheſt and brighteſt Sun-ſhine of Religion amongſt them, was not, till it came under the warm Beams and Influence of the Royal Scepter. Their Religion was never culmi<g ref="char:EOLhyphen"/>nant, never roſe unto its heighth and ſplendour, till the Kingſhip was ſettled amongſt them, firſt in the Family of <hi>David,</hi> and then in the Line of <hi>Solomon.</hi> Then was the <note place="margin">1 <hi>Chron.</hi> 23. 6. 24. 3.</note> Sacred <hi>Militia,</hi> the courſes of the Prieſts and Levites, ordered: Then was the ſtately Fabrick of the Temple erected, and the Service furniſhed: Then was the God of <hi>Iſrael</hi> worſhiped in the beauty of Holineſs. And ſo downward in the ſequel of the Story, ſtill ye ſhall find, Kings were the main<g ref="char:EOLhyphen"/>tainers
+<pb n="23" facs="tcp:153290:15"/>
+of Religions, as in <hi>Abija, Aſa,</hi> and <hi>Jehoſaphat:</hi> Kings were reformers of Religion, as in <hi>He<g ref="char:EOLhyphen"/>zekia</hi> and <hi>Joſia:</hi> yea, and Kings were the Reſtorers of Religion, together with their Liberties, as in the days of <hi>Ezra</hi> and <hi>Nehe<g ref="char:EOLhyphen"/>mia.</hi> Both which acted in all they did by Commiſſion from the Kings of <hi>Perſia, Ezra</hi> 7. 25, 26. <hi>Neh.</hi> 5. 14.</p>
+            <p>This Bleſſing of Pious, and of Gracious Kings, ſo behooful and advantageous to the Church of the <hi>Jews,</hi> God was pleaſed to af<g ref="char:EOLhyphen"/>ford and make promiſe of, to the Church of the Gentiles.</p>
+            <p>Beſides the Proofs already na<g ref="char:EOLhyphen"/>med, I ſhall add three more, per<g ref="char:EOLhyphen"/>tinent to the purpoſe. The firſt is that of the Text; where the nur<g ref="char:EOLhyphen"/>ſing and nouriſhing influence of the ſecular Powers, is clearly men<g ref="char:EOLhyphen"/>tioned, as one ſignal and ſpecial means of the furtherance and in<g ref="char:EOLhyphen"/>largement of the Goſpel-Church, as is evident from the whole drift
+<pb n="24" facs="tcp:153290:16"/>
+and ſcope of the context. The ſecond is that of <hi>Iſaiah. Ch.</hi> 60. where having ſpoken of the A<g ref="char:EOLhyphen"/>bundance of the Sea that ſhould be converted, Verſe the <hi>5th;</hi> It follows in the tenth Verſe, <hi>The Sons of Strangers ſhall build up thy Walls, and their Kings ſhall mini<g ref="char:EOLhyphen"/>ſter unto thee.</hi> And Verſe the <hi>16th, Thou ſhalt alſo ſuck the Milk of the Gentiles, and the Breaſt of Kings.</hi> Before ye had the Nurſe, and here ye have the Milk and Breaſt; aſ<g ref="char:EOLhyphen"/>ſuring us, they ſhould not be meer Dry-nurſes, but ſuch who as it were from their own Bowels, ſhall miniſter ſtrength and growth unto the Goſpel-Church.</p>
+            <p>There is one place more, which ſome not improbably draw to this purpoſe; and that is in the four and twentieth <hi>Pſal.</hi> where having ſpoken of the large and univerſal Dominion of Chriſt, <hi>Verſe</hi> 1. And of the conditions of Communion with the Church of Chriſt, <hi>Ver.</hi> 3. to the <hi>6th.</hi> he then cloſes with an
+<pb n="25" facs="tcp:153290:16"/>
+exhortation (as many do inter<g ref="char:EOLhyphen"/>pret it) to the ſecular Powers, for their favourable furtherance of the Church and Goſpel of Chriſt, <hi>Verſe</hi> the <hi>7th. Lift up your Heads O ye Gates, and be ye lift ye ever<g ref="char:EOLhyphen"/>laſting doors, that the King of Glo<g ref="char:EOLhyphen"/>ry may come in.</hi> The Septuagint, with <hi>Symmachus</hi> and <hi>Theodotio,</hi> ex<g ref="char:EOLhyphen"/>pound it, as ſpoken to Principa<g ref="char:EOLhyphen"/>lities and Powers; and accor<g ref="char:EOLhyphen"/>dingly render it, <hi>Lift up your Heads, O ye Rulers,</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) and ſo the vulgar <hi>Latin, (O Prin<g ref="char:EOLhyphen"/>cipes)</hi> 
+               <note n="a" place="margin">So the <hi>Arabick</hi> and <hi>Aethi<g ref="char:EOLhyphen"/>opick</hi> Ver<g ref="char:EOLhyphen"/>ſions.</note> 
+               <hi>O ye Princes,</hi> and be ye lift up, ye <hi>Fores ſaeculi,</hi> (as <hi>Arias Montanus</hi> renders it, Ye e<g ref="char:EOLhyphen"/>verlaſting Doors.) And why muſt they be lift up? All to this end, (ſays <hi>Pſalmiſt) That the King of Glory may come in, i. e.</hi> To make way and room in the World, for the Kingdom of God and of Chriſt. The entrance into the City was by the Gates; the ſtrength of the City was in the Gates, <hi>(Pſal.</hi> 147. 13. <hi>He hath</hi>
+               <pb n="26" facs="tcp:153290:17"/>
+               <hi>ſtrengthned the Bars of thy Gates.)</hi> And the Place of Magiſtracy, Power and Judicature was in the Gates, <hi>(Ruth</hi> 4. 1, 2. <hi>Deut.</hi> 25. 7.) And therefore by the lifting up of the Gates may well be underſtood the concurrence, the utmoſt aid, countenance and aſſiſtance of the Ruler, to the promoting and propagating of Religion, as being entruſted with a Pow<g ref="char:EOLhyphen"/>er to make way for the King of Glory.</p>
+            <p>So much for the Thing it ſelf, The ſpreading and enlarging of the Church, by Kings and Prin<g ref="char:EOLhyphen"/>ces. I come now unto the laſt Particular, and that is, The means and manner of effecting it; They ſhall do it, as Nurſing Fathers; that is, firſt, as Leaders, and then as Governours: Firſt, by the ſtrong attractive of their Exam<g ref="char:EOLhyphen"/>ple, and then by the uſe and ex<g ref="char:EOLhyphen"/>erciſe of their Authority; firſt, by the very countenance of their perſonal Example, which always
+<pb n="27" facs="tcp:153290:17"/>
+is of great influence and efficacy in the World. <hi>Haggai</hi> 2. 23. (ſays God unto the Prince <hi>Zorobabel) I will make thee as a Signet, Tan<g ref="char:EOLhyphen"/>quam Annulum Signatorium.</hi> Good Princes, they are Gods Seal, Gods Signet, that make impreſſion up<g ref="char:EOLhyphen"/>on the World, and help to ſhape, and print, and faſhion it into Truth and Goodneſs.<hi>—Ad exemplum Regis componitur Orbis.</hi> The Re<g ref="char:EOLhyphen"/>ligion of the Prince is the Mould into which the People common<g ref="char:EOLhyphen"/>ly are caſt. Such as ſit in the Gate, ſuch as are higheſt and up<g ref="char:EOLhyphen"/>permoſt in the World, are eyed as the Rule and Copy to thoſe that are under. The younger natural<g ref="char:EOLhyphen"/>ly follow and tread in ſteps of the elder; Servants imitate their Ma<g ref="char:EOLhyphen"/>ſters, Children their Parents; but of all Preſidents, that of the Prince or Ruler is the moſt pre<g ref="char:EOLhyphen"/>vailing, to engage the practice of the People.<hi>—Et in vul<g ref="char:EOLhyphen"/>gus manant exempla Regentum.</hi> The Ways and Deeds of ſuch
+<pb n="28" facs="tcp:153290:18"/>
+great ones, as they draw the Eyes of all after them, ſo alſo their Imitation. Vertue in a King, Re<g ref="char:EOLhyphen"/>ligion in a Prince, ſeldom goes a<g ref="char:EOLhyphen"/>lone without a numerous train of Followers and Imitators. When the King of <hi>Ninive</hi> put on Sack<g ref="char:EOLhyphen"/>cloth, <hi>(Jona</hi> 3. 6.) how ſudden<g ref="char:EOLhyphen"/>ly did it become the wear and faſhion as it were of the whole Court and City. When <hi>Conſtan<g ref="char:EOLhyphen"/>tine</hi> embrac'd the Faith, and ſet up the Croſs for his Standard, what a ſhake did the very Pattern of his Example give unto the Kingdom of Darkneſs through the whole Empire? How ſoon did Heatheniſm vaniſh out of Towns and Cities, and betook it ſelf <hi>ad pagos &amp; paganos?</hi> (from whence the Name of Pagans, ſays <hi>Voſſius.)</hi> Chriſtianity being ſeat<g ref="char:EOLhyphen"/>ed in the Prince, it ran down amain, as the Oyntment from the Head of <hi>Aaron,</hi> to the Skirts and Borders of his Garment.</p>
+            <p>
+               <pb n="29" facs="tcp:153290:18"/>
+That's the firſt way wherein or whereby Kings do become Nur<g ref="char:EOLhyphen"/>ſing Fathers to the Church, by the meer influence of their Ex<g ref="char:EOLhyphen"/>ample.</p>
+            <p>The next and ſecond (which is the main) follows; and that is, by the uſe and exerciſe of their Power and Authority. That is, when they do employ the utmoſt of their Princely Power, for the defence and protection of the Church, for the ſupport and maintenance of the Church, for the conſervation of the rights and properties of the Church, for the due and well management of the Affairs of the Church. When Laws are made, and Acts paſſed by Authority in the behalf of the Church, when publick and effe<g ref="char:EOLhyphen"/>ctual care is taken for the great concerns of the Church, for the ſoundneſs of its Faith, for the pu<g ref="char:EOLhyphen"/>rity, beauty, and comelineſs of its Worſhip, for the order and re<g ref="char:EOLhyphen"/>gularity of its Government, for
+<pb n="30" facs="tcp:153290:19"/>
+the efficacy of its Diſcipline, for the preſervation of its Peace, U<g ref="char:EOLhyphen"/>nity and Tranquillity, in and through the Communion of the whole. This, this is the Benefit of Nurſing-fathers; this is the Milk that comes out of the Breaſt of Kings, the eſtabliſhing of Re<g ref="char:EOLhyphen"/>ligion by the Sovereign Power, in all the publick concerns of it. When Chriſtianity is (by their means) engrafted into the State, and is made the Religion of the State; when the profeſſion of it is not only own'd, but ratified with the Seal of Authority, fen<g ref="char:EOLhyphen"/>ced and ſtrengthned with the pro<g ref="char:EOLhyphen"/>viſion of Laws, guarded with Pe<g ref="char:EOLhyphen"/>nalties, encouraged and advanced with Priviledges. This is that <hi>Singulare quiddam a regibus requiſi<g ref="char:EOLhyphen"/>tum,</hi> ſays <hi>Calvin</hi> upon the Text, That ſpecial and ſingular Service expected, yea and beſpoken from the Hands of Kings, for Chriſt, <hi>Pſal.</hi> 2. 10, 11. <hi>Be wiſe O ye Kings, be inſtructed ye Rulers of the Earth,</hi>
+               <pb n="31" facs="tcp:153290:19"/>
+               <hi>Serve the Lord with fear.</hi> What Lord? why the Lord Chriſt, as <note place="margin">
+                  <hi>Acts</hi> 4. 25.</note> appears by the <hi>2d</hi> and <hi>7th</hi> Ver. And how are they to ſerve him? not only in their Hearts and Lives, but in their Power and Place, with their Crowns and Scepters; ſerve him as Kings. Excellently St. <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> 
+               <note place="margin">Epiſt. ad Bonifacium</note> to this purpoſe. <hi>Aliter ſervit qua homo, aliter qua Rex.</hi> Kings ſerve the Lord Chriſt, as they are Men, one way, as they are Kings, another. As Men, they ſerve him, <hi>vivendo fideliter,</hi> by living up to the Faith and Pre<g ref="char:EOLhyphen"/>cepts of Chriſt; but, <hi>In quantum reges,</hi> as Kings, they ſerve him, <hi>Leges ſanciendo, Leges ferendo pro Chriſto,</hi> by making Laws for Chriſt; <hi>Cum ea faciunt ad ſervi<g ref="char:EOLhyphen"/>endum</hi> 
+               <note place="margin">
+                  <hi>Epiſt.</hi> 48. <hi>ad Vincen<g ref="char:EOLhyphen"/>tium. Epiſt. ad Bonifacium</hi>
+               </note> 
+               <hi>illi, quae non poſſunt facere niſi reges;</hi> when they do thoſe things for Chriſt, (by the advan<g ref="char:EOLhyphen"/>tage of their Power) which none but Kings can do. And again, <hi>Cum</hi> 
+               <note place="margin">
+                  <hi>Aug. con<g ref="char:EOLhyphen"/>tra Creſco<g ref="char:EOLhyphen"/>nium, l.</hi> 3. <hi>cap.</hi> 51.</note> 
+               <hi>in regno ſuo bona jubeant, mala pro<g ref="char:EOLhyphen"/>hibeant;</hi> when in their reſpective
+<pb n="32" facs="tcp:153290:20"/>
+Dominions, they command what's good, and forbid what's evil; not only in relation, <hi>ad Societatem Hu<g ref="char:EOLhyphen"/>manam,</hi> to Humane and Civil Peace and Society, but alſo (ſays he) in things pertaining <hi>ad Reli<g ref="char:EOLhyphen"/>gionem Divinam,</hi> to matters of Religion, and Divine concerns. All which may ſerve as a fit Com<g ref="char:EOLhyphen"/>ment upon the Text, plainly ſhew<g ref="char:EOLhyphen"/>ing us, what is that <hi>Regia Eccle<g ref="char:EOLhyphen"/>ſiae nutricatio,</hi> (as <hi>Grotius</hi> ſpeaks) <note place="margin">L. de Im<g ref="char:EOLhyphen"/>perio ſum<g ref="char:EOLhyphen"/>marum po<g ref="char:EOLhyphen"/>teſtatum.</note> That Bleſſing of Nurſing-fathers; That 'tis no other than the main<g ref="char:EOLhyphen"/>tenance and cheriſhing of Religi<g ref="char:EOLhyphen"/>on by the nurture of wholeſom Laws, by the publick interpoſal of Kings and Princes in its behalf, as of Pious Guardians, and as of tender Governours <hi>encharged</hi> and <hi>betruſted</hi> with the care and over<g ref="char:EOLhyphen"/>ſight of the Church. And this indeed is the proper import of the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or Nurſing-father in the Text, and in the <hi>Hebrew.</hi> It comes from the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that ſignifies, Truth, Truſt, or
+<pb n="33" facs="tcp:153290:20"/>
+Faithfulneſs. So that the prime and proper meaning of the word (as <hi>Schinler</hi> notes) is to ſignifie <hi>Tutorem, Curatorem (Fiduciarium)</hi> 
+               <note place="margin">
+                  <hi>Rad.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>qui in fidem ſuam recipit alterius puerum:</hi> That is, one that is a Guardian, a Truſtee, one that has the care, maintenance and diſpo<g ref="char:EOLhyphen"/>ſal of a Perſon committed to his truſt. This (I ſay) is its firſt and primigenial ſignification; and then by conſequence 'tis rendred ſometimes a Nurſe, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Ruth.</hi> 4. 6.) ſometimes a bringer-up, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) even as here in the Text, and in <hi>Eſther</hi> 2. 7. where <hi>Morde<g ref="char:EOLhyphen"/>cai</hi> is ſaid to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the nouriſher or bringer up of <hi>Eſther;</hi> or (as <hi>Schinler</hi> renders it, out of ſome Copy of the Septuagint) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Praeſes &amp; Rector,</hi> her Guardian and Governour, (for ſo does <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifie, <hi>Curam &amp; Praefe<g ref="char:EOLhyphen"/>cturam.</hi>
+            </p>
+            <p>So that, all things conſidered, the ſtile and attribute of Kings here in the Text could not poſſi<g ref="char:EOLhyphen"/>bly
+<pb n="34" facs="tcp:153290:21"/>
+be better rendred, than, as in our Tranſlation, by the phraſe of Nurſing-fathers. Fathers for their Power, Truſt and Authority; and then both Fathers and Nurſes for their care and tenderneſs. So that the word it does at once inſtruct us in two things concerning Chriſtian Princes. Firſt, In the Intereſt of their Power in reference to the Church. Secondly, In the na<g ref="char:EOLhyphen"/>ture and quality of their Power.</p>
+            <p>
+               <hi>1ſt,</hi> Here is the Intereſt of their Power, in, or towards the Church. The Church, as a <hi>Minor,</hi> com<g ref="char:EOLhyphen"/>mitted to their <note n="a" place="margin">
+                  <hi>Eorum poteſtati ſuam Eccle<g ref="char:EOLhyphen"/>ſiam credi<g ref="char:EOLhyphen"/>dit. Iſidor. Hiſp. in ſent. c.</hi> 51. <hi>Cujus fid<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i creditur ipſa Fides. Sacerdotes meos, tuae manui com<g ref="char:EOLhyphen"/>miſi. Greg. Epiſt. ad Mauriti<g ref="char:EOLhyphen"/>um. L.</hi> 3. <hi>c.</hi> 10.</note> charge; and themſelves made of God, the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Mordecaies</hi> to this <hi>Eſther,</hi> the Guardians, and Go<g ref="char:EOLhyphen"/>vernours of it. And that under a double capacity; firſt, as Sove<g ref="char:EOLhyphen"/>reigns; and ſo they have the power of ſtopping or ſuppreſſing all violence, rage and fury inten<g ref="char:EOLhyphen"/>ded againſt the outward Being, Peace and Well-fare of the Church. And then ſecondly, as
+<pb n="35" facs="tcp:153290:21"/>
+Chriſtian Sovereigns. And ſo they have the right of doing all Acts pertaining to Chriſtian So<g ref="char:EOLhyphen"/>vereignty in Church-matters; that is, a ſupream inſpection in and over all Cauſes and Perſons that do relate to the Church; a Power of ſetling and eſtabliſhing the true Faith and Communion of the Church; yea, and of order<g ref="char:EOLhyphen"/>ing the Affairs of the Church, of reforming corruptions, of redreſ<g ref="char:EOLhyphen"/>ſing abuſes, of regulating, and retrenching exceſſes and innova<g ref="char:EOLhyphen"/>tions. In a word, A Power of ſuper-viſing all Offices and quali<g ref="char:EOLhyphen"/>ties in the Church, to ſee and provide, that ſuch as act in the behalf of the Church, do their Duties, and keep their Bounds, that nothing be done to the pre<g ref="char:EOLhyphen"/>judice, not only of the common Peace, but of the common Faith, Order and Chriſtianity; but all unto the furtherance and edifica<g ref="char:EOLhyphen"/>tion of the whole.</p>
+            <p>
+               <pb n="36" facs="tcp:153290:22"/>
+This Is that Power which Kings of old for their part exerciſed in the Government of the Synagogue, (as you may ſee at large in the <hi>Chronicles)</hi> in the reforming of Re<g ref="char:EOLhyphen"/>ligion, <note place="margin">2 <hi>Chr.</hi> 29. 15. <hi>Ver.</hi> 3. <hi>&amp;</hi> 5. <hi>Verſe</hi> 21, 24, 25, 30. <hi>Ch.</hi> 30. 2, 5, <hi>Ci.</hi> 31. 2, 4.</note> in purging the Temple, in re-inforcing the Paſſeover, in com<g ref="char:EOLhyphen"/>manding and ordering the Prieſts and Levites, in reducing and re-en<g ref="char:EOLhyphen"/>gaging the People unto the Law, and to the Covenant, <hi>cauſing</hi> all that were found in <hi>Iſrael,</hi> and <hi>Ben<g ref="char:EOLhyphen"/>jamin</hi> to ſtand to it, (2 <hi>Chron.</hi> 34. 32.) And again, <hi>making</hi> all that were preſent in <hi>Iſrael</hi> to ſerve, even to ſerve the Lord their God. The like Power we find, without ſcruple, practiſed by the firſt Chriſtian Monarchs and So<g ref="char:EOLhyphen"/>vereigns, within the Limits of the Goſpel-Church of their Do<g ref="char:EOLhyphen"/>minions. After that the Empire was caſt into the Lap of the Church, and Chriſtianity advanced to ſit at the Helm and Stern of Go<g ref="char:EOLhyphen"/>vernment; 'tis ſufficiently known, how far even the firſt Chriſtian
+<pb n="37" facs="tcp:153290:22"/>
+Emperours interpoſed their Au<g ref="char:EOLhyphen"/>thority in Church-matters; In hearing Complaints, in receiving Appeals, in taking cognizance of Cauſes, <hi>(etiam poſt duplex Judi<g ref="char:EOLhyphen"/>cium Epiſcopale)</hi> in redreſſing of Eccleſiaſtical diſorders, in elect<g ref="char:EOLhyphen"/>ing of Biſhops, in convening of Councels, in examining and ra<g ref="char:EOLhyphen"/>tifying of Canons, in paſſing and ſetting forth Laws and Edicts, for the eſtabliſhing of Truth, Order, and unity, and for the healing or extinguiſhing of Schiſm and He<g ref="char:EOLhyphen"/>reſy. As may be ſeen at large by any that will read both in the Eaſtern and Weſtern Records, in the Acts of <hi>Conſtantine</hi> and <hi>Theo<g ref="char:EOLhyphen"/>doſius,</hi> in the Code and Novels of <hi>Juſtinian,</hi> and in the Capitulars of <hi>Charles</hi> the Great. So true was that of <hi>Socrates,</hi> in his Pre<g ref="char:EOLhyphen"/>face to the fifth Book of his An<g ref="char:EOLhyphen"/>cient-Church-Hiſtory, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (ever ſince that Kings and Emperours became Chriſtians) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="38" facs="tcp:153290:23"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (the affairs or mat<g ref="char:EOLhyphen"/>ters of the Church have <hi>hung,</hi> the whole weight of them hung and depended upon <hi>them, i. e.</hi> upon their authority, concurrence and interpoſal; for of that he ſpeaks in the next words.</p>
+            <p>And thus have I ſhewn the firſt thing that is implied in the Phraſe of Nurſing-fathers, the Power and Intereſt of the Prince in and over the Church as Guardian, as Governour.</p>
+            <p>There is but one thing more to be conſidered in the Text, and I ſhall then draw towards a Con<g ref="char:EOLhyphen"/>cluſion; and that is, The nature and quality of this Power, or, if I may ſo ſpeak, (and I crave hum<g ref="char:EOLhyphen"/>ble leave to ſpeak it) The Bounds and Limits of it. Princes, they have indeed Power and Authority in Church-matters, but 'tis as <hi>Fa<g ref="char:EOLhyphen"/>thers</hi> ſtill, not as <hi>Maſters.</hi> They are not ſtiled <hi>Domini,</hi> but <hi>Nutritii;</hi> not Lords of our Faith, but Nurſes, Protectors, Defenders of the Faith.</p>
+            <p>
+               <pb n="39" facs="tcp:153290:23"/>
+The whole Right of Secular Powers in matters Eccleſiaſtical is not Deſtructive, but Cumulative. <note place="margin">Mr. <hi>Thorn<g ref="char:EOLhyphen"/>dikes</hi> Right of the Church. <hi>c.</hi> 4.</note> 'Tis not to change or aboliſh, but to eſtabliſh what they find the Church, by the Act of God, poſ<g ref="char:EOLhyphen"/>ſeſſed of, and veſted in, from the beginning. We may not there<g ref="char:EOLhyphen"/>fore ſo far extend the Phylacteries of the Princes Power, as to think or ſay, That he may deviſe new <note place="margin">Recté illud dicitur, non eſſe principum aut civili<g ref="char:EOLhyphen"/>um Magi<g ref="char:EOLhyphen"/>ſtratuum, Leges no<g ref="char:EOLhyphen"/>vas de cul<g ref="char:EOLhyphen"/>tu Dei con<g ref="char:EOLhyphen"/>ſcientiis ferre aut propria Sa<g ref="char:EOLhyphen"/>cerdotum munia obi<g ref="char:EOLhyphen"/>re. Caſaub. exercitati<g ref="char:EOLhyphen"/>ones Epiſt. dedicat.</note> Articles of Faith, or appoint new Sacraments, (new Inſtruments of Grace) or introduce or enjoyn new parts of Worſhip. No, theſe are <hi>Chriſti Regalia,</hi> (the Royalties of Chriſt.) In things of this na<g ref="char:EOLhyphen"/>ture we call no Man Maſter upon Earth, for one is our Maſter, e<g ref="char:EOLhyphen"/>ven Chriſt, <hi>Mat.</hi> 23. 10. There are (as the Apoſtle ſpeaks) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The things of Chriſt, <hi>Phil.</hi> 2. 21. And there are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The things that are Gods, evi<g ref="char:EOLhyphen"/>dently diſtinguiſh'd by our Savi<g ref="char:EOLhyphen"/>our from the things that are <hi>Caeſars, Mat.</hi> 22. 21. As being
+<pb n="40" facs="tcp:153290:24"/>
+things of Divine, Immediate and abſolute appointment. And though the Chriſtian Magiſtrate has <hi>Im<g ref="char:EOLhyphen"/>perium circa Sacra,</hi> a Power of or<g ref="char:EOLhyphen"/>dering even <hi>about theſe</hi> things, as to Time and Place, and matter of form, and whatſoever elſe relates to the due and decent, and regu<g ref="char:EOLhyphen"/>lar performance of theſe things; yet he has no power <hi>ſuper haec,</hi> over the ſubſtance of the things themſelves, either to add to them, or diminiſh from them.</p>
+            <p>In a word, we muſt know, there are in the Church of God, <hi>Immota quaedam &amp; Divina,</hi> certain ſacred and unchangeable Points; as namely, The common Faith and Chriſtianity, the Rule and Sum of Chriſtian Faith, the Parts and Duties of Chriſtian Worſhip, the Offices of Chriſti<g ref="char:EOLhyphen"/>anity wherewith God will be ſer<g ref="char:EOLhyphen"/>ved, in the Communion of his Church, the Means and Inſtru<g ref="char:EOLhyphen"/>ments of Grace, (the Word and Sacraments;) together with the
+<pb n="41" facs="tcp:153290:24"/>
+Power of Orders, and the Keys of Doctrine and Diſcipline. Theſe and the like, they are <hi>Res Dei,</hi> the Things of God; that is, of his immediate, abſolute, perpe<g ref="char:EOLhyphen"/>tual appointment and conſtitution. They are <hi>Dona Chriſti,</hi> the Dona<g ref="char:EOLhyphen"/>tives of Chriſt and of his Spirit. They are <hi>Dos &amp; jura Eccleſiae,</hi> the Dowry and Birth-right of the Church, as it is a Society of Gods immmediate founding, ſubſiſting not by Mans Law, but by Gods Charter, (not to be null'd, or al<g ref="char:EOLhyphen"/>ter'd by Man.)</p>
+            <p>In theſe things, as St. <note n="a" place="margin">
+                  <hi>L.</hi> 5. <hi>Orat. con<g ref="char:EOLhyphen"/>tra Aux<g ref="char:EOLhyphen"/>entium.</hi>
+               </note> 
+               <hi>Am<g ref="char:EOLhyphen"/>broſe</hi> ſaid of old, <hi>Bonus Imperator eſt intra Eccleſiam, non ſupra.</hi> And again, <note n="b" place="margin">
+                  <hi>Ambr. Ep.</hi> 33. <hi>Item L.</hi> 5. <hi>c.</hi> 33.</note> 
+               <hi>Noli te gravare Impe<g ref="char:EOLhyphen"/>rator, ut putes te in ea quae Divina ſunt, imperiale aliquod jus habere.</hi> Think not, O Emperour, thou haſt any Power Imperial over things Divine; <hi>i. e.</hi> over things which God and Chriſt have ſetled in the Church by their own im<g ref="char:EOLhyphen"/>mediate Act.</p>
+            <p>
+               <pb n="42" facs="tcp:153290:25"/>
+The Chriſtian Church, it is and was from its beginning a Religi<g ref="char:EOLhyphen"/>ous Corporation, founded by the Act of God for the Communion of its Members in the Faith, Wor<g ref="char:EOLhyphen"/>ſhip and Service of God. By vertue of which Foundation from God, it has its proper and inter<g ref="char:EOLhyphen"/>nal Rights and Powers diſtinct from the Civil, though limitable in the exerciſe of them by the Civil. Theſe Rights were veſt<g ref="char:EOLhyphen"/>ed in the Church long before any State became Chriſtian, and are ſo to remain after; as ſtanding upon a diſtinct Ground, Gift and Original. And therefore the Prince or State, in becoming Chriſtian, gains no Power, no Sovereignty over theſe things, (ſo as to inno<g ref="char:EOLhyphen"/>vate or alter them;) but rather an obligation to uphold and main<g ref="char:EOLhyphen"/>tain them, according to the prime intent of their inſtitution. This being the declared Will of God, <q>That Chriſtian Monarchs or So<g ref="char:EOLhyphen"/>vereigns, by entring into the
+<pb n="43" facs="tcp:153290:25"/>
+Church, act as Nurſing-fathers; <note place="margin">Mr. <hi>Thorn<g ref="char:EOLhyphen"/>dikes</hi> Right of the Church, <hi>c.</hi> 4. <hi>P.</hi> 167, 168.</note> and, that by vertue of their Chriſtianity they hold them<g ref="char:EOLhyphen"/>ſelves obliged to the mainte<g ref="char:EOLhyphen"/>nance of all the ſeveral parts of Chriſtianity; <hi>i. e.</hi> of whatſoe<g ref="char:EOLhyphen"/>ver is of Divine Right, in the profeſſion and exerciſe of Chri<g ref="char:EOLhyphen"/>ſtianity.</q>
+            </p>
+            <p>And thus have I at length paſs'd through the ſeveral Particulars of the Text. The Perſons here ſpe<g ref="char:EOLhyphen"/>cified <hi>(Kings</hi> and <hi>Queens;)</hi> the things here ſpoken of theſe Per<g ref="char:EOLhyphen"/>ſons; <hi>i. e.</hi> their converſion to the Church, their devotion in the Church, their aſſiſtance to, and enlargement of the Church, by the Intereſt of their Power, as Nurſing-fathers.</p>
+            <p>I ſhall now only draw ſome few Inferences, and make ſome pra<g ref="char:EOLhyphen"/>ctical Reflections; and ſo con<g ref="char:EOLhyphen"/>clude.</p>
+            <p>Firſt then. Are Kings promi<g ref="char:EOLhyphen"/>ſed as a Bleſſing to the Church? Hence we infer, The continuance
+<pb n="44" facs="tcp:153290:26"/>
+and allowance of their Function, of their Place and Office, under Chriſtianity. Some (as it <note n="a" place="margin">See Mr. <hi>Par<g ref="char:EOLhyphen"/>kers</hi> Poli<g ref="char:EOLhyphen"/>ty, ſecond Piece, <hi>P.</hi> 114.</note> ſeems) have been ſo fooliſh or perverſe, as to ſay, That Kingly Govern<g ref="char:EOLhyphen"/>ment was a figure and ſhadow, a part of the <hi>Jewiſh</hi> Pedagogy and Bondage; and ſo aboliſh'd by the coming of the <hi>Meſſia.</hi> The Text here, and the Scripture elſewhere, is evidence to the contrary. For how could they be Nurſing-fa<g ref="char:EOLhyphen"/>thers to the Church, if they did not remain as Kings? The exer<g ref="char:EOLhyphen"/>ciſe of their Authority, in the behalf of the Church, plainly in<g ref="char:EOLhyphen"/>fers the continuance of their Fun<g ref="char:EOLhyphen"/>ction in the Church? The Tem<g ref="char:EOLhyphen"/>ple of <hi>Ezechiel</hi> (which, by the large dimenſions of it, <hi>Ch.</hi> 42. muſt needs pertain to the Goſpel) makes mention of the Princes, and the Princes Portion, <hi>Ch.</hi> 45. 7.—48. 21.</p>
+            <p>And ſo, in the City of the new <hi>Jeruſalem,</hi> 'tis ſaid, <hi>The Kings of the Earth ſhould bring their Glory</hi>
+               <pb n="45" facs="tcp:153290:26"/>
+               <hi>and their Honour to it,</hi> (Revel. 21. 24.) They ſhould not leave it behind them, but bring it with them.</p>
+            <p>Chriſtianity does not extin<g ref="char:EOLhyphen"/>guiſh Monarchy; they may be Chriſtians, and yet Kings. 'Tis no part of the Baptiſmal Vow, that they ſhould forego or re<g ref="char:EOLhyphen"/>nounce their Scepters. <hi>Non eri<g ref="char:EOLhyphen"/>pit terreſtria, qui regna dat Coele<g ref="char:EOLhyphen"/>ſtia,</hi> as <hi>Sedulius</hi> of old. They may be Chriſts Servants, and yet reign over Subjects. For Chriſts Scepter is not, like the Rod of <hi>Moſes,</hi> to devour and ſwallow up the Rods and Rights of Princes, as his did the Magicians. He came not to null the Titles, or diſturb the Claims of Earthly So<g ref="char:EOLhyphen"/>vereigns, but rather <note n="a" place="margin">
+                  <hi>Mat.</hi> 22. 21.</note> to ſecure and eſtabliſh them in their con<g ref="char:EOLhyphen"/>tinuance <hi>ſtatu quo.</hi> 1 <hi>Cor.</hi> 7. 20. <hi>Let every man abide in the ſame Calling wherein he was called;</hi> is a fundamental Rule and Principle of the Goſpel, in all civil Caſes and
+<pb n="46" facs="tcp:153290:27"/>
+Callings. Chriſtianity ſuppoſeth the lawful ſtate of the World, and of Civil Government, and al<g ref="char:EOLhyphen"/>ters no Mans condition in it, but maintains every Man in that E<g ref="char:EOLhyphen"/>ſtate, Calling, and Condition of Life, wherein it finds him.</p>
+            <p>In vain therefore was <hi>Herod</hi> troubled at the news of Chriſts Birth, as if he came to diſſeiz him of his Temporalities, <hi>Mat.</hi> 2. 3. In vain was <hi>Pilate</hi> jealous of the Kingſhip of Chriſt, as Enemy to <hi>Caeſar.</hi> Chriſt frees him of that fear, and tells him plainly, <hi>My Kingdom is not of this World,</hi> Joh. 18. 26. upon which words St. <hi>Auſtin</hi> makes a loud <hi>Proclamari</hi> in <note place="margin">
+                  <hi>Tractatus in Joann.</hi> 119.</note> the Name of Chriſt, <hi>Audite Ju<g ref="char:EOLhyphen"/>daei &amp; Gentes,—Audite Regna Terrena,</hi> (Hear O ye <hi>Jews</hi> and <hi>Gentiles,</hi> hear O ye Earthly Prin<g ref="char:EOLhyphen"/>ces;) <hi>non impedio Dominationem veſtram in hoc mundo.</hi> (I come not to hinder or prejudice your Rule or Dominion in this World.) <hi>Nolite timere,</hi> &amp;c. Be not frighted
+<pb n="47" facs="tcp:153290:27"/>
+with vain and groundleſs fears, for my Kingdom is not of this World, neither does it come to ſupplant or unhinge the Kingdoms in this world. Kings indeed are called <hi>unto</hi> Chriſt, and by Chriſt, <hi>(Pſal.</hi> 2. 10.) not to part with their Power, or to loſe their Place, but only to do him ſervice with their Power, and in their Place. They are not to throw away their Crowns, but only (with the 24 Elders, <hi>Rev.</hi> 4. 10.) to lay them at the feet of Chriſt, as acknow<g ref="char:EOLhyphen"/>ledging their ſubjection to him, and dependancy upon him, and derivation from him. For ſo ſaith the Word and Wiſdom of the Father, <hi>Prov.</hi> 8. 15, 16. <hi>By me Kings Reign; by me Princes Rule, i. e.</hi> by appointment <hi>from</hi> him, and ſubordination <hi>to</hi> him. For the which reaſon, <hi>Tertullian</hi> ſticks not to ſay unto the Pagans, <hi>Noſter</hi> 
+               <note place="margin">
+                  <hi>Apolog. c.</hi> 33.</note> 
+               <hi>eſt magis</hi> Caeſar, <hi>utpote a noſtro Deo conſtitutus.</hi> The Emperour, ſays he, is ours, more than yours,
+<pb n="48" facs="tcp:153290:28"/>
+as being ſet up and appointed by <hi>our</hi> God; yea by <hi>our</hi> Saviour, whoſe Name and Stile it is, to be <hi>Prince of the Kings of the Earth,</hi> Rev. 1. 5. To be <hi>King of Kings, and Lord of Lords,</hi> Rev. 19. 16.</p>
+            <p>So much for the Office and Function; the next Inference I ſhall make is in behalf of their Right and Power. If Kings be appointed of God, and entruſted by him, as Nurſing Fathers to the Church; then hence it follows a<g ref="char:EOLhyphen"/>gainſt all oppoſers, that the Chri<g ref="char:EOLhyphen"/>ſtian Sovereign has to do in mat<g ref="char:EOLhyphen"/>ters of the Church. For ſure, look what the Prophet here ſays, That <hi>Princes ſhall do as Nurſing-fathers,</hi> 
+               <note place="margin">
+                  <hi>Bilſon,</hi> of Subjecti<g ref="char:EOLhyphen"/>on.</note> that, I conclude, they may and muſt do. For God would not promiſe, that they ſhould u<g ref="char:EOLhyphen"/>ſurp a ſtrange Office, but diſ<g ref="char:EOLhyphen"/>charge their own. And there<g ref="char:EOLhyphen"/>fore the Fact in this caſe proves the Right, and the Exerciſe, the Power. Only miſtake not the Point intended. By this Right
+<pb n="49" facs="tcp:153290:28"/>
+or Power of Princes I do not mean, that they either have in themſelves the Power Eccleſia<g ref="char:EOLhyphen"/>ſtick ſtrictly and properly ſo cal<g ref="char:EOLhyphen"/>led; or that they give it unto o<g ref="char:EOLhyphen"/>thers, unleſs by giving we under<g ref="char:EOLhyphen"/>ſtand only <hi>Copiam utendi,</hi> Leave and liberty to uſe and apply it. I intend not to ſay, that Princes by their Sovereignty are to be the ſole and ſupream Judges of Faith, or Deciders of Controverſies, or Interpreters of Scripture, or Diſ<g ref="char:EOLhyphen"/>penſers of Word, Cenſures, or Sacraments; or that they may take upon them, in their own Perſons, (as the <hi>Leviathan</hi> ſpeaks) to conſe<g ref="char:EOLhyphen"/>crate Churches, to propagate Ho<g ref="char:EOLhyphen"/>ly Orders, to celebrate the Eu<g ref="char:EOLhyphen"/>chariſt, nor to bind and looſe in the Name of Chriſt. I deny not, but in theſe things the Magiſtrate has no power to act, either <hi>per defectum facultatis,</hi> becauſe he has not that skill and faculty that is requiſite to the doing of theſe things; or <hi>per defectum Juris,</hi> be<g ref="char:EOLhyphen"/>cauſe
+<pb n="50" facs="tcp:153290:29"/>
+the Right of miniſtring ſuch things is by the Act of God reſerved to others. As the Prieſts of old made anſwer to <hi>
+                  <g ref="char:V">Ʋ</g>zzia</hi> the King, <note n="a" place="margin">Regis erat, non adolere, ſed facere ut Sacerdotes adolerent. Grot. in lo<g ref="char:EOLhyphen"/>cum.</note> 
+               <hi>Non eſt Officii tui, It pertains not unto thee to burn In<g ref="char:EOLhyphen"/>cenſe,</hi> 2 Chron. 26. 18.</p>
+            <p>But yet notwithſtanding, all this being granted, there is ſtill in the Nurſing-father of the Church, a Sovereign Power over Church-men, and in reference to Church-matters. He has <hi>Impe<g ref="char:EOLhyphen"/>rium circa Sacra,</hi> though not <hi>Mi<g ref="char:EOLhyphen"/>niſterium in Sacris.</hi> He has the Right of Supream Inſpection, though not of immediate Admi<g ref="char:EOLhyphen"/>niſtration, (for 'tis one thing to <hi>do</hi> theſe things, and another to <note place="margin">
+                  <hi>Vide Gro<g ref="char:EOLhyphen"/>tium de Imperio,</hi> &amp;c. <hi>C.</hi> 2. <hi>p.</hi> 24.</note> ſee, or cauſe them to be done.)</p>
+            <p>In a word, all that I intend is, that the Sovereign, as Chriſtian, has a Super-eminent Power of commanding and ordering the Matters of the Church, ſo far as they are of publick and general concern, not only to Peace and
+<pb n="51" facs="tcp:153290:29"/>
+Tranquillity, but to Religion and Piety, to the due and regular pro<g ref="char:EOLhyphen"/>feſſion of the common Chriſtia<g ref="char:EOLhyphen"/>nity.</p>
+            <p>I know indeed, there want not thoſe who would oppoſe this, ei<g ref="char:EOLhyphen"/>ther in whole or in part.</p>
+            <p>Firſt, ſome, with the Dona<g ref="char:EOLhyphen"/>tiſts of old, quite ſhut out the Magiſtrate from theſe matters. According to the Sayings related by <hi>Optatus. Quid Chriſtianis cum</hi> 
+               <note place="margin">
+                  <hi>Optatus C. Parmen. L.</hi> 1.</note> 
+               <hi>Regibus? aut, Quid Epiſcopis cum Palatio?</hi> What have the Church to do with Kings? or Biſhops with the Court or Palace? And again, <hi>Quid Imperatori cum Eccle<g ref="char:EOLhyphen"/>ſia?</hi> 
+               <note place="margin">
+                  <hi>L.</hi> 3.</note> What has the Emperour to do with the Church? This was the Language of the firſt Fathers of Schiſm; and too much of the like do we find in thoſe Imitators of them, who will not have the Ruler to interpoſe at all in mat<g ref="char:EOLhyphen"/>ters of Religion. They'l allow him perhaps a Place in the Church, as a Member; but not
+<pb n="52" facs="tcp:153290:30"/>
+as a Governour, or Nurſing-fa<g ref="char:EOLhyphen"/>ther, no Laws to be made, no Edicts to be paſſed, for the ſet<g ref="char:EOLhyphen"/>ling of Faith and Order, in op<g ref="char:EOLhyphen"/>poſition to errour and diſtraction. But is this to be a Nurſing-father to the Church? or rather a meer Gallio, only as an idle and careleſs Spectator, to ſtand by, and tame<g ref="char:EOLhyphen"/>ly to look on unconcerned, upon the miſeries and confuſions of the Chriſtian Body, without ſtretch<g ref="char:EOLhyphen"/>ing forth a Finger to heal, help, or prevent them? How can they be ſaid to diſcharge their <hi>Truſt,</hi> (their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>?) Or what account can they give unto God of their Power, who do not uſe it to the beſt advantage, not only for the outward ſafeguard, but alſo for the inward ſoundneſs, purity, peace, and order of the Church. Never any Claſſick Author, whe<g ref="char:EOLhyphen"/>ther <note n="a" place="margin">
+                  <hi>Deut.</hi> 17. 18, 19. <hi>Joſh.</hi> 1. 8. <hi>Ezra</hi> 7. 16.</note> ſacred or <note n="b" place="margin">
+                  <hi>Ariſtot. polit.</hi> 3. <hi>c.</hi> 10, <hi>&amp;</hi> 11. <hi>Tullius de legibus</hi> 2. <hi>Plato de leg. Dion. L.</hi> 52.</note> prophane, (that touch'd upon this Subject) but mentions Religion, as in the Magiſtrates charge. Never any
+<pb n="53" facs="tcp:153290:30"/>
+State that profeſs'd Religion, but did exerciſe an Intereſt in diſpo<g ref="char:EOLhyphen"/>ſing matters of Religion. Never any Inſtance to be given, where Men were permitted (in Point of Religion) to do every one what was right in their own Eyes, ex<g ref="char:EOLhyphen"/>cept in times of Anarchy, <hi>i. e.</hi> 
+               <note place="margin">
+                  <hi>Judges</hi> 17. 5, 6.</note> when there was no King in <hi>Iſrael,</hi> no Tutor, no Governour, no Nur<g ref="char:EOLhyphen"/>ſing-father to interpoſe and regu<g ref="char:EOLhyphen"/>late things in Church and State.</p>
+            <p>But then ſecondly, others there are, neither ſmall nor few, who, with the Church of <hi>Rome,</hi> will allow the Prince, <hi>defenſionem Re<g ref="char:EOLhyphen"/>ligionis,</hi> 
+               <note place="margin">
+                  <hi>Bellarm. L.</hi> 3. <hi>de Laicis c.</hi> 17.<hi>—Et alibi.</hi>
+               </note> but not <hi>Judicium,</hi> no power of judging, but only a Power, or Obligation rather, of receiving and defending whatſo<g ref="char:EOLhyphen"/>ever the Church determines. They'l grant you, that Princes are the proper bearers of the Se<g ref="char:EOLhyphen"/>cular <note place="margin">
+                  <hi>Ibid. c.</hi> 18.</note> Sword; but then it muſt be, <hi>Gladius ſub Gladio,</hi> the Temporal Sword under the Spiritual; for though it reſt in the Scabbard of
+<pb n="54" facs="tcp:153290:31"/>
+Kings, yet muſt it not be drawn or uſed by them, <hi>Niſi ad nutum &amp; patientiam Sacerdotis.</hi> (So <hi>Boni<g ref="char:EOLhyphen"/>face</hi> the <hi>8th.</hi> in his Extravagant <hi>Tit.</hi> 8. <hi>de Majorit. &amp; Obed. c.</hi> 1.)</p>
+            <p>This ſure is not to make Kings Nurſing-fathers, but Vaſſals to the Church; meer Butchers, as it were, to execute, while their Prelates only are the Judges to hear and determine. And all this againſt the grain, both of Scri<g ref="char:EOLhyphen"/>pture, Antiquity, and Reaſon.</p>
+            <p>Princes indeed are bid to ſerve Chriſt, <hi>(Pſal.</hi> 2. 11. <hi>Serve the Lord with fear)</hi> but not with an implicit Faith, or blind Obedi<g ref="char:EOLhyphen"/>ence; but <hi>praeeunte judicio,</hi> with judgment and underſtanding: For ſo runs the tenth Verſe, <hi>Sapite &amp; erudimini, Be wiſe O ye Kings, be inſtructed ye Judges of the Earth,</hi> (and then follows) <hi>Serve the Lord with fear.</hi> 'Tis <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 'tis a rational, reaſonable Service that is required at their hands: Firſt underſtand, and then ſerve.
+<pb n="55" facs="tcp:153290:31"/>
+'Tis the Service of a right judg<g ref="char:EOLhyphen"/>ment, the thing which the Church prays for, <hi>Pſal.</hi> 72 1. <hi>Give thy Judgments to the King, and thy Righteouſneſs to the Kings Son.</hi> God, who would have Kings, among others, to come unto the knowledge of the Truth, (1 <hi>Tim.</hi> 2. 4.) no doubt but he allows them <hi>(exercitium Judicii)</hi> a Judgment to diſcern what is truth and what is error, (that they may refuſe and ſuppreſs the one, and embrace and eſtabliſh the o<g ref="char:EOLhyphen"/>ther, as ſhall be thought fit, for the publick good and welfare of the Church.)</p>
+            <p>The ancient Councels and Sy<g ref="char:EOLhyphen"/>nods of the Church, (as <hi>Grotius</hi> 
+               <note place="margin">
+                  <hi>Grotius de Imperio ſummarum poteſtat. c.</hi> 7. <hi>p.</hi> 174, 175, 176.</note> proves) did ever tender both their definitions <hi>(i. e.</hi> of Faith,) and Canons, <hi>(i. e.</hi> of Government) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to the judgment of the Chriſtian Emperour to be exami<g ref="char:EOLhyphen"/>ned, the one by the Laws of Faith, the other by the Rules of Prudence and Expedience. And
+<pb n="56" facs="tcp:153290:32"/>
+ſure 'tis all the reaſon in the world, that Kings be ſatisfied as Men and as Chriſtians, in the matters of the Church, before they ratifie them as Sovereigns. <q>For (as a Learned Man ſays) <note place="margin">Mr. <hi>Thorn<g ref="char:EOLhyphen"/>dike, Epi<g ref="char:EOLhyphen"/>log. L.</hi> 3. Of the Laws of the Church <hi>c.</hi> 32. <hi>p.</hi> 385.</note> Kings having a Right to make the Acts of the Church, to be<g ref="char:EOLhyphen"/>come the Laws of the State, (by declaring to concur with the execution of them) doubt<g ref="char:EOLhyphen"/>leſs they muſt needs have a Right to judge, whether they be indeed ſuch Acts, as Chri<g ref="char:EOLhyphen"/>ſtian Powers may and ought to concur in, and accordingly to bound and limit the exerciſe of them.</q>
+            </p>
+            <p>But then again thirdly, There is yet a third ſort behind, that do oppoſe, or at leaſt much debaſe and diminiſh the Power of the Chriſtian Sovereign; that is, ſuch as would have them deal with matters of Religion, only at the ſecond hand, in a remote con<g ref="char:EOLhyphen"/>ſideration, <hi>ſub ratione boni civilis,</hi>
+               <pb n="57" facs="tcp:153290:32"/>
+ſo far as the civil good and inte<g ref="char:EOLhyphen"/>reſt is concerned in them. So that, as <hi>Bellarmine</hi> would bring <note place="margin">
+                  <hi>Bell. de Pontifice. L.</hi> 5. <hi>c.</hi> 6.</note> Princes under the Popes girdle, <hi>Indirecte &amp; ordine ad Spiritualia;</hi> ſo would theſe have Kings and Prin<g ref="char:EOLhyphen"/>ces to meddle with Cauſes and Matters of Religion, <hi>Indirecte &amp; in ordine ad politica;</hi> only in reference to the civil Good, Weal, and Peace of the State.</p>
+            <p>But on the contrary; ſeeing Kings and Princes are by God di<g ref="char:EOLhyphen"/>rectly entruſted with the Church as Nurſing Fathers, to do him that Service in and for the Church by their Authority, which none but Kings and Princes can do: Since they have been always ac<g ref="char:EOLhyphen"/>counted, <hi>Cuſtodes &amp; Vindices utri<g ref="char:EOLhyphen"/>uſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Tabule,</hi> the Guardians of both Tables; ſince they are ordained, (ſays the Apoſtle) for the pu<g ref="char:EOLhyphen"/>niſhment <note place="margin">
+                  <hi>Rom.</hi> 13. 3, 4.</note> of evil Works, <hi>(i. e.</hi> of all ſorts, none excepted;) ſince the Law of the Ruler or Magi<g ref="char:EOLhyphen"/>ſtrate is <hi>made and ſet</hi> for the pu<g ref="char:EOLhyphen"/>niſhing <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note>
+               <pb n="58" facs="tcp:153290:33"/>
+not only of what is op<g ref="char:EOLhyphen"/>poſite to ſound Reaſon and Polity, but of what is contrary to <hi>ſound Doctrine.</hi> (1 Tim. 1. 9.) Laſtly, ſince the end of their Place and Function, (even of all that are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) is not only Peace and Honeſty, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the due and right Service of God, (1 <hi>Tim.</hi> 2. 2.)</p>
+            <p>I ſay, from all theſe Premiſes we may well infer, that for any to confine the Cognizance of Princes to prophane Tryals, and to ſet the faults or matters of the firſt Table, as it were, beyond the reach of the Secular Arm; or to yield them only, as the ſe<g ref="char:EOLhyphen"/>condary Object of their Power; is, both to abaſe their Authority, and to abridge them of their Right.</p>
+            <p>And ſo much ſhall ſuffice for the Inferences<hi>:</hi> I ſhall now only add few Reflections from the Text upon our ſelves and duties; and I have done.</p>
+            <p>
+               <pb n="59" facs="tcp:153290:33"/>
+Firſt then, Is this the Right and Title of Chriſtian Kings? Are they indeed ſet up by God as Nur<g ref="char:EOLhyphen"/>ſing-fathers to the Church? Then let them be ſo owned by us both in word and deed. That is, let them have the dues of Nurſing-fathers.</p>
+            <p>As firſt, That of <hi>Honour and Reverence</hi> to their Names and Perſons, <hi>Mal.</hi> 1. 6. <hi>If I be a Fa<g ref="char:EOLhyphen"/>ther, where is mine Honour?</hi> The Chriſtian Sovereign, by his Place and Station, he is <hi>Pater Patriae,</hi> the publick Father of his Coun<g ref="char:EOLhyphen"/>try; and a Nurſing-father to the Church: Juſtly therefore does he claim the Tribute of our ſpe<g ref="char:EOLhyphen"/>cial reverence, and that in a de<g ref="char:EOLhyphen"/>gree next to God. So the Scri<g ref="char:EOLhyphen"/>pture places him, 1 <hi>Pet.</hi> 2. 17. <hi>Fear God, Honour the King.</hi> As having <hi>imaginem Dei, ſicut Epiſco<g ref="char:EOLhyphen"/>pus Chriſti,</hi> (ſays St. <hi>Auſtin)</hi> as <note place="margin">
+                  <hi>Auguſtin. quaeſt. eſt veteri te. ſtamento, Qu.</hi> 35.</note> having the Print and Image of God. And therefore Contempt here, though but in words, in
+<pb n="60" facs="tcp:153290:34"/>
+the Language of Scripture, is called <hi>Blaſpheming of Glories, Jude</hi> Verſe 8. (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.)</p>
+            <p>Aſecond Due (owing to theſe Nurſing-fathers) is, that of Sub<g ref="char:EOLhyphen"/>miſſion; Sujection to their Au<g ref="char:EOLhyphen"/>thority. <hi>Tit.</hi> 3. 1. <hi>Put them in mind to be ſubject unto Principali<g ref="char:EOLhyphen"/>ties and Powers.</hi> 1 Pet. 2. 13. <hi>Sub<g ref="char:EOLhyphen"/>mit your ſelves—unto the King,</hi> 
+               <note place="margin">1 <hi>Chron.</hi> 26. 30, 32. 2 <hi>Chron.</hi> 19. 8, 12.</note> 
+               <hi>as Supreme.</hi> Supreme without any exception, either of Cauſes or Perſons. The Romaniſts would fain exempt their Clergy, or at leaſt the Miter, from this Subje<g ref="char:EOLhyphen"/>ction. But what ſays the Scri<g ref="char:EOLhyphen"/>pture? <hi>Rom.</hi> 13. 1. (ſpeaking of thoſe Powers that bore the <hi>Sword,</hi> Verſe 4. And to whom Tribute <note n="a" place="margin">
+                  <hi>Si Tri<g ref="char:EOLhyphen"/>butum pe<g ref="char:EOLhyphen"/>tit, non negamus. Agri Ec<g ref="char:EOLhyphen"/>cleſiae ſol<g ref="char:EOLhyphen"/>vunt tri<g ref="char:EOLhyphen"/>butum. Ambroſ. Ep.</hi> 32.</note> was paid, <hi>Ver.</hi> 6, &amp; 7.) he ſays, <hi>Let every Soul be ſubject to the higher</hi> (or to the Supreme) <hi>Powers.</hi> This he wrote unto the Church of <hi>Rome,</hi> and at ſuch a time, in ſuch an Age, when Souls were at the beſt, and Powers at
+<pb n="61" facs="tcp:153290:34"/>
+the worſt. And yet muſt <hi>every</hi> Soul be ſubject; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (as St. <hi>Chryſoſtome</hi> gloſſes upon the Place.) Be thou an Apoſtle, be thou an Evangeliſt, or Prophet, be thou <hi>whoſoever,</hi> thou muſt be ſubject. The Command is gene<g ref="char:EOLhyphen"/>ral, the Injunction univerſal. And ſo St. <hi>Bernard</hi> (writing to an <note place="margin">
+                  <hi>Epiſt.</hi> 4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>ad Archie<g ref="char:EOLhyphen"/>piſc. Senon.</hi>
+               </note> Arch-biſhop) deſcants upon the word <hi>Omnis. Si omnis, etiam ve<g ref="char:EOLhyphen"/>ſtra. Quis vos excepit ab univerſi<g ref="char:EOLhyphen"/>tate?</hi> &amp;c. If <hi>every</hi> Soul, then yours too; he that goes about to exempt you, goes about to de<g ref="char:EOLhyphen"/>ceive you. And ſurely, they that <note place="margin">
+                  <hi>Vide Gre<g ref="char:EOLhyphen"/>gorium E<g ref="char:EOLhyphen"/>piſt. ad Mauriti<g ref="char:EOLhyphen"/>um, L.</hi> 4. <hi>c.</hi> 76. <hi>&amp;</hi> 78.</note> muſt admoniſh others to be ſub<g ref="char:EOLhyphen"/>ject, <hi>(Tit.</hi> 3. 1.) much more muſt they be ſo themſelves.</p>
+            <p>Thirdly, a third Due, owing to theſe Nurſing-fathers, is that of Obedience. Obedience to their Orders and Commands: That is, a ready and willing perfor<g ref="char:EOLhyphen"/>mance of what is preſcribed by their Authority; and that in
+<pb n="62" facs="tcp:153290:35"/>
+               <note n="a" place="margin">
+                  <hi>Joſh.</hi> 1. 16, 17. <hi>Obedienti<g ref="char:EOLhyphen"/>am promit<g ref="char:EOLhyphen"/>tit populus in omnibus. Grot.</hi>
+               </note> all things, except where obe<g ref="char:EOLhyphen"/>dience to Man, is rebellion or tranſgreſſion againſt God. <hi>Coloſſ.</hi> 3. 10. <hi>Children obey your Parents</hi> (your Fathers) <hi>in all things;</hi> much more our Nurſing-fathers, whoſe Authority is higher than that of the Parent, and whoſe Power is Supreme. This is that the Apoſtle joyns and couples with Subjection, <hi>Tit.</hi> 3. 1. <hi>Put them in mind to be ſubject to Prin<g ref="char:EOLhyphen"/>cipalities, to obey Magiſtrates.</hi> And indeed the prime and principal part of our Subjection to Gover<g ref="char:EOLhyphen"/>nours is Poſitive Obedience, Con<g ref="char:EOLhyphen"/>formity of Practice, to the Or<g ref="char:EOLhyphen"/>ders and Eſtabliſhments of Au<g ref="char:EOLhyphen"/>thority. 'Tis that, that all Laws, and Power, and Government asks and looks for, aims and drives at, in the firſt place, the obedience of the Subject; and as for Penalties, they are only for the terrifying of Diſobedience. The latter is but the Sanction that guards the Law; the for<g ref="char:EOLhyphen"/>mer
+<pb n="63" facs="tcp:153290:35"/>
+is that alone that ſatisfies the demands of the Law.</p>
+            <p>And ſo much ſhall ſuffice for the Rights and Dues owing unto Nurſing-fathers: Unto which, in the next place, we muſt alſo re<g ref="char:EOLhyphen"/>member to ſubjoyn the Dues ow<g ref="char:EOLhyphen"/>ing unto God in their behalf; the Dues of Joy and Praiſe, Prayer and Thankfulneſs, for the Gift and Bleſſing of theſe Nurſing-fa<g ref="char:EOLhyphen"/>thers; which brings me to that ſpecial Duty that is reflected on us at this time, not only from the Text, but from the Day.</p>
+            <p>The Day that we now cele<g ref="char:EOLhyphen"/>brate, 'tis a Day pregnant with Mercies, even the Mercies of the Text. In which reſpect, 'tis more than a ſingle Feſtivity. Like St- <hi>Simon</hi> and <hi>Jude,</hi> or St. <hi>Philip</hi> and <hi>James,</hi> it comes with Twins in the Womb of it. A double, or rather a triple Holy-day, as being the Memorial of a Triple Bleſſing.</p>
+            <p>
+               <pb n="64" facs="tcp:153290:36"/>
+Firſt, as it is <hi>Natalitium Regis,</hi> the Birth-day of our Chriſtian Sovereign; and therefore to be celebrated by us. <hi>Mos ille, vetu<g ref="char:EOLhyphen"/>ſtus, per ſe improbari non poteſt,</hi> ſays <hi>Calvin,</hi> of <hi>Herod</hi>'s keeping of his Birth-day. 'Twas an an<g ref="char:EOLhyphen"/>cient Cuſtom, and of it ſelf not to be condemned. For its Anti<g ref="char:EOLhyphen"/>quity, we find mention of it in the Kings of <hi>Aegypt, Gen.</hi> 40. 20. The Birth-day of <hi>Pharaoh</hi> ſolem<g ref="char:EOLhyphen"/>nized with a Feaſt to all his Sub<g ref="char:EOLhyphen"/>jects. In the Kings of <hi>Iſrael, Hoſ.</hi> 7. 5. we read of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Dies Regis,</hi> the Kings Day, <hi>i. e.</hi> of his Birth, (ſays <hi>Arias Monta<g ref="char:EOLhyphen"/>nus. Dies natalis ejus.)</hi> In the Kings of <hi>Perſia,</hi> their Nativi<g ref="char:EOLhyphen"/>ty was a yearly Feſtival, even as far as throughout all <hi>Aſia.</hi> So <note place="margin">
+                  <hi>Vide Briſ<g ref="char:EOLhyphen"/>ſon. de Regno Per<g ref="char:EOLhyphen"/>fico. L.</hi> 1. <hi>p.</hi> 27.</note> 
+               <hi>Plato</hi> in his <hi>Alcibiades,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>In the <hi>Roman</hi> and Chriſtian Emperours we read an intimation of the like Feſtival. <hi>Et ſi in no<g ref="char:EOLhyphen"/>ſtrum Ortum aut Natalem celebran<g ref="char:EOLhyphen"/>dum</hi>
+               <pb n="65" facs="tcp:153290:36"/>
+               <hi>ſolemnitas inciderit, differa<g ref="char:EOLhyphen"/>tur.</hi> Says the conſtitution of <hi>Leo</hi> and <hi>Anthemius, de die dominico.</hi>
+            </p>
+            <p>Yea and amongſt private Chri<g ref="char:EOLhyphen"/>ſtians we find the like practiſed, even by Chriſtian Biſhops, in re<g ref="char:EOLhyphen"/>ference to themſelves. 'Tis evi<g ref="char:EOLhyphen"/>dent, (from the Epiſtle of St. <hi>Ambroſe</hi> unto Biſhop <hi>Foelix)</hi> they <note place="margin">
+                  <hi>L.</hi> 1. <hi>Ep.</hi> 5.</note> were wont to keep the Days both of their particular Nativity, and of their particular Inſtallment.</p>
+            <p>Much more then may the Birth<g ref="char:EOLhyphen"/>day of our Sovereign and Nur<g ref="char:EOLhyphen"/>ſing-father claim this celebration at our hands.</p>
+            <p>Eſpecially, if we conſider it in the next place, as it was alſo <hi>Na<g ref="char:EOLhyphen"/>talitium Regni.</hi> 'Twas not only <hi>Dies Regis,</hi> but <hi>Dies Regni,</hi> the <note place="margin">
+                  <hi>Dan.</hi> 4. 36. <hi>(Requiſie<g ref="char:EOLhyphen"/>runt me) Scl. pertaeſi</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>&amp; inde ſe<g ref="char:EOLhyphen"/>quentis</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Grotius.</hi>
+               </note> Kings and the Kingdoms Day, the Day of His Return and Royal Reſtauration; the Solemn Day that put a Bleſſed Period to the long and ſad confuſions of a Civil and Inteſtine War, and to the ma<g ref="char:EOLhyphen"/>nifold and multiplied calamities,
+<pb n="66" facs="tcp:153290:37"/>
+violences, oppreſſings, toſſings, and diſtractions of a Twelve-years unſettlement and uſurpation. O let the remembrance of <hi>thoſe</hi> days <note place="margin">
+                  <hi>Stobaei Serm.</hi> 42. <hi>verba Se<g ref="char:EOLhyphen"/>lini.</hi>
+               </note> endear the enjoyment and cele<g ref="char:EOLhyphen"/>bration of <hi>this.</hi>
+            </p>
+            <p>It was the Cuſtom among the <hi>Perſians,</hi> (ſays <hi>Briſſonius)</hi> that <note place="margin">
+                  <hi>Briſſon. de Regno Perſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n. L.</hi> 1. <hi>p.</hi> 27.</note> when ever their King died, they had <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Juſtitium quin<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dierum,</hi> a certain vacation or ceaſing of all Laws, Order and Government for five days toge<g ref="char:EOLhyphen"/>ther. And all to this end, (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.)</hi> that they might be the more ſenſible of the benefit of a King and Laws, returning after ſuch a time of diſorder and licen<g ref="char:EOLhyphen"/>tiouſneſs.</p>
+            <p>God was pleaſed to exerciſe us of theſe Nations with a longer <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a ſad and diſorderly Vaca<g ref="char:EOLhyphen"/>tion; not of five days, but of more than twice five years, (as the <hi>Iſraelites</hi> of old; <hi>without a King, without a Prince,</hi> &amp;c. <hi>Hoſ.</hi> 3. 4.)</p>
+            <p>
+               <pb n="67" facs="tcp:153290:37"/>
+Let us at leaſt make this uſe of it, as to prize the worth of theſe things by the paſt want of them; and to value our returned Enjoy<g ref="char:EOLhyphen"/>ments by the experience of our former miſeries.</p>
+            <p>But then again, thirdly, There is a third Conſideration, that adds to the Solemnity of this Day, in reference to the Church, as well as to the State, <hi>i. e.</hi> As it was (in a ſence) <hi>Natalitium Religionis,</hi> the Birth-day of our Religion too, <hi>i. e.</hi> of the publick reviving and reſtauration of it, as to the pub<g ref="char:EOLhyphen"/>lick Rights, form and ſettlement of it. The Wounds of the Church in our late confuſions, were as deep as thoſe of the State; and as many convulſions in the one, as of diſtraction and diſlocation in the other. Nothing but <hi>In and Out,</hi> was the Game plaid in Mat<g ref="char:EOLhyphen"/>ters of Religion; nothing acted upon the Stage, but the ſtrife or ſtruggling of <hi>Rebeccaes</hi> Twins; <hi>Jacob</hi> ſupplanting <hi>Eſau;</hi> the
+<pb n="68" facs="tcp:153290:38"/>
+younger Religion catching at the heel of the elder, and ſtriving to come into its Place and Birth<g ref="char:EOLhyphen"/>right. In a word, as there was <hi>Jus vagum &amp; incertum</hi> in the State, ſo there was little elſe but <hi>Fides menſtrua</hi> in the Church; one way of Government and Religion thruſting and ſhoving out the o<g ref="char:EOLhyphen"/>ther; nothing but <hi>Overturning, overturning, overturning, till he came whoſe Right it was</hi> to be our Nurſing-father. But now, bleſſed <note place="margin">
+                  <hi>Ezek.</hi> 21. 27.</note> be God, there is ſome Fixation. The Staves of Bands and of Beau<g ref="char:EOLhyphen"/>ty <hi>(Zech.</hi> 11. 7.) that were bro<g ref="char:EOLhyphen"/>ken begin to piece up again. The Wall and Tower of the Vineyard that were trodden down, begin to riſe again. The Ark, that had been either Captive or Ambulato<g ref="char:EOLhyphen"/>ry, fetch'd home again, and ſet up within its own proper Taber<g ref="char:EOLhyphen"/>nacle. In a word, all things brought to ſuch a degree of ſet<g ref="char:EOLhyphen"/>tlement, that we may now once more ſay unto the Men of <hi>Rome,</hi>
+               <pb n="69" facs="tcp:153290:38"/>
+(that ſhall ask us) <hi>Ecce Eccle<g ref="char:EOLhyphen"/>ſiam,</hi> Loe, <hi>this</hi> is our Church, <hi>this</hi> the Doctrine of it, <hi>this</hi> the Order of it, <hi>this</hi> the Service and Liturgy of it.</p>
+            <p>All which, ſince we owe it (next under God) to the Return of our Nurſing-father; this is that, that ſhould enhance the memory of this Day, as bringing with it (to<g ref="char:EOLhyphen"/>gether with our Laws and Li<g ref="char:EOLhyphen"/>berties) the re-ſettlement and re-eſtabliſhment of Religion too.</p>
+            <p>The finiſhing of the ſecond Temple rebuilt by <hi>Herod</hi> the great (ſays <hi>Joſephus)</hi> fell upon the Kings Birth-day; which made both the Joy and Day the grea<g ref="char:EOLhyphen"/>ter. The like may be ſaid of this our day. Our Temple was con<g ref="char:EOLhyphen"/>cerned in the Mercy, as well as our King; the Ark and the Order of <hi>Levi,</hi> as well as the Tribe and Scepter of <hi>Juda.</hi> And therefore, where ſo many ſignal and eminent Cauſes meet, as in one conſtellati<g ref="char:EOLhyphen"/>on, it ſhould render the Feſtivity of the Day the greater.</p>
+            <p>
+               <pb n="70" facs="tcp:153290:39"/>
+What remains then, but that we ſummon up our Hearts, and pour out our Souls before God, in ſuch Sacrifices of Joy, Thankful<g ref="char:EOLhyphen"/>neſs and Prayer, as may teſtifie our due reſentment of ſo great a Mercy.</p>
+            <p>Firſt, Let's <hi>Rejoyce</hi> in this Mer<g ref="char:EOLhyphen"/>cy. Let's meet the memory of this Day with the ſame thoughts, reliſh, and warm affections, as we did the firſt and freſheſt News of it. Remember we the greatneſs of our then miſeries and dangers, the ſmallneſs of our hopes, the ſadneſs of our fears; and after all, the ſeaſonableneſs, the ſud<g ref="char:EOLhyphen"/>denneſs, the fullneſs and remar<g ref="char:EOLhyphen"/>kableneſs of our deliverance. And then, if we be not blind, we ſhall ſee reaſon to break forth with the Church and ſay, <hi>The Lord hath done great things for us, whereof we are glad,</hi> Pſal. 126. 3.</p>
+            <p>And then ſecondly, Let our Joy and Gladneſs proceed and beget Praiſe and Thankfulneſs in Word
+<pb n="71" facs="tcp:153290:39"/>
+and Deed. God has ever ſhew'd a ſpecial care of this our Land and Nation. We may ſay, as St. <hi>Peter</hi> in the Viſion unto <hi>Bright<g ref="char:EOLhyphen"/>wood</hi> Monk of <hi>Glaſcowe, Regnum Angliae, Regnum Dei.</hi> We have <note place="margin">
+                  <hi>Polydor. L.</hi> 8.</note> been Gods <hi>Hephzibah,</hi> Gods Dar<g ref="char:EOLhyphen"/>ling, a Crown of Glory, a Royal Diadem in the Hand of God; a <note place="margin">
+                  <hi>Iſa.</hi> 62. 3. 4.</note> Land and Stage of Mercy, eſpe<g ref="char:EOLhyphen"/>cially of <hi>this</hi> Mercy and Benefit promiſed in the Text, (Kings to be our Nurſing-fathers, and Queens our Nurſing-mothers.) A Happineſs which we enjoyed with the firſt and earlieſt in the World. The firſt King that ever embraced the Faith of Chriſt was a King in this Iſland. His Name <hi>Lucius</hi> (from light or brightneſs;) as if God in him meant to fulfil the Prophecy in the very ſound of the Letter, <hi>Iſa.</hi> 60. 3. <hi>The Gen<g ref="char:EOLhyphen"/>tiles ſhall come to the Light, and Kings to the brightneſs of thy Riſing.</hi>
+            </p>
+            <p>
+               <pb n="72" facs="tcp:153290:40"/>
+The firſt Emperour that ever became Chriſtian was, by Birth, a <hi>Brittain; Conſtantine</hi> the great, born at <hi>York.</hi>
+            </p>
+            <p>The firſt <hi>Kingdom</hi> that caſt off the Romiſh Yoke and uſurpati<g ref="char:EOLhyphen"/>ons; and by Law ſetled the Re<g ref="char:EOLhyphen"/>formation, was this of <hi>England.</hi> Firſt in <hi>Henry</hi> the Eighth, and ſo down ſucceſſively (excepting the bloody <hi>Parentheſis</hi> of the <hi>Marian</hi> days) down to the preſent Mo<g ref="char:EOLhyphen"/>narch.</p>
+            <p>And bleſſed be the God of Hea<g ref="char:EOLhyphen"/>ven, that the <hi>Engliſh</hi> Scepter is ſtill joyned to the Faith of Chriſt, the Royal Branch married to the Vine of Chriſt; the Roſe and Lil<g ref="char:EOLhyphen"/>lies of the Crown ſtill ſubject to the Croſs of Chriſt; that we have ſtill a Prince, not only of the ancient Blood, but of the true and ancient Faith; one who has been tried (in his time) in the Fire of Affliction, in the Forreign Fur<g ref="char:EOLhyphen"/>nace of Temptation; and yet himſelf abides, not only a firm
+<pb n="73" facs="tcp:153290:40"/>
+Profeſſour, but a gracious Defen<g ref="char:EOLhyphen"/>der of the True, Ancient, Catho<g ref="char:EOLhyphen"/>lick and Apoſtolick Faith.</p>
+            <p>Which that he may ſo long continue, let us in the third and <note place="margin">Sacrifica<g ref="char:EOLhyphen"/>mus pro ſa<g ref="char:EOLhyphen"/>lute Impe<g ref="char:EOLhyphen"/>ratoris—purâ prece. Tertull. ad Scapulam.</note> laſt place add unto all, the Sacri<g ref="char:EOLhyphen"/>fice of our Prayers and Supplica<g ref="char:EOLhyphen"/>tions at the Holy Table: That God, who has the Hearts of Kings in his Hands, would ſo guide his Heart, by the Princely Spirit of Grace and Wiſdom; that He may be now and ever ſtill and more a Nurſing-father to this our <hi>Iſrael;</hi> that ſo, He living and ruling in the fear of God, and commanding for the Truth and Honour of God, and procuring the good and well-fare of the Church of God; after a long and happy Reign here upon Earth, He may be finally poſſeſſed with a Crown of Glory, and ſit down with <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> in the Kingdom of God, and of Heaven, hereafter.</p>
+            <trailer>The END.</trailer>
+            <pb facs="tcp:153290:41" rendition="simple:additions"/>
+            <pb facs="tcp:153290:41"/>
+         </div>
+      </body>
+   </text>
+</TEI>
